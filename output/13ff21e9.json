@@ -1,0 +1,627 @@
+{
+  "job_id": "13ff21e9",
+  "pdf_hash": "1fb06af57534e9d7f649038c990da107b92644ba44731b030b6dccb196f6ba5d",
+  "page_count": 33,
+  "question_count": 16,
+  "is_scanned": true,
+  "elapsed_seconds": 355.47,
+  "questions": [
+    {
+      "questionText": "Consider the function $f:(0,\\infty) \\to (-\\infty, \\infty)$ given by $f(x)=\\sqrt{x} \\log_{\\mathrm{e}}(x)-x+1$. Then which one of the following statements is TRUE?",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The derivative of the function $f$ is decreasing in the interval $(0,1)$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The function $f$ has a local maximum at some point $a \\in (0,\\infty)$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The function $f$ has a local minimum at some point $b \\in (0,\\infty)$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The function $f$ has NEITHER a point of local maximum NOR a point of local minimum in the interval $(0,\\infty)$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570006/exam_pipeline/13ff21e9_q1_7.png",
+          "altText": "A diagram showing a large disk with two smaller disks on its circumference.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q1_7}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Let $P$ be the point on the parabola $y=x^2$ such that the slope of the tangent to the parabola at the point $P$ is $4$. Let $Q$ be the point in the first quadrant lying on the circle $x^2+y^2=2$ such that the slope of the tangent to the circle at the point $Q$ is $-1$. Let $R$ be the point in the first quadrant lying on the ellipse $x^2 +4y^2 = 8$ such that the slope of the tangent to the ellipse at the point $R$ is $-\\frac{1}{2}$. Then the radius of the circle passing through the points $P,Q$ and $R$ is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text_and_image",
+          "text": "$\\sqrt{10}$",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570008/exam_pipeline/13ff21e9_q2_optA_9.png",
+            "altText": "Graph for option A",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optA_9}}"
+          }
+        },
+        {
+          "key": "B",
+          "optionType": "text_and_image",
+          "text": "$\\sqrt{5}$",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570009/exam_pipeline/13ff21e9_q2_optB_10.png",
+            "altText": "Graph for option B",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optB_10}}"
+          }
+        },
+        {
+          "key": "C",
+          "optionType": "text_and_image",
+          "text": "$\\sqrt{\\frac{5}{2}}$",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570010/exam_pipeline/13ff21e9_q2_optC_11.png",
+            "altText": "Graph for option C",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optC_11}}"
+          }
+        },
+        {
+          "key": "D",
+          "optionType": "text_and_image",
+          "text": "$2\\sqrt{5}$",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570011/exam_pipeline/13ff21e9_q2_optD_12.png",
+            "altText": "Graph for option D",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optD_12}}"
+          }
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570007/exam_pipeline/13ff21e9_q2_8.png",
+          "altText": "Circuit diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q2_8}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Which one of the following matrices can be obtained by performing elementary row transformations on the $3 \\times 3$ identity matrix?",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ 1 & 1 & 1 \\\\ 1 & 1 & 1 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ 2 & 3 & 4 \\\\ 1 & 2 & 1 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ 2 & 3 & 4 \\\\ 2 & 5 & 8 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ -1 & 1 & 2 \\\\ 0 & 2 & 3 \\end{bmatrix}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780569980/exam_pipeline/13ff21e9_q3_0.png",
+          "altText": "Matrix options for question 3",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q3_0}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780569983/exam_pipeline/13ff21e9_q3_1.png",
+          "altText": "Cylinder diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q3_1}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Considering only the principal values of the inverse trigonometric functions, the value of $\\cot^{-1}(\\cot(-11))+10 \\sin \\left(2 \\cos^{-1} \\left(\\frac{1}{\\sqrt{2}}\\right)\\right) + 10\\sin\\left(2 \\tan^{-1} (2)\\right)$ is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$3\\pi + 7$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$7$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$4\\pi + 7$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$3\\pi - 5$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780569985/exam_pipeline/13ff21e9_q4_2.png",
+          "altText": "Question 4 text and options",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q4_2}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780569988/exam_pipeline/13ff21e9_q4_3.png",
+          "altText": "A graph with four subplots labeled A, B, C, D, each showing a different plot of Power (D) vs. $n_L$.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q4_3}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Suppose that Box I contains $6$ red balls and $9$ green balls, and Box II contains $8$ red balls and $12$ green balls. All the balls of Box I and Box II are mixed together and a ball is chosen at random from them. Let $E_{1}$ be the event that the ball chosen belonged to Box I and let $E_{2}$ be the event that the ball chosen belonged to Box II. Let $F_{1}$ be the event that the ball chosen is red and let $F_{2}$ be the event that the ball chosen is green. Then which of the following statements is (are) TRUE ?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The events $E_{1}$ and $F_{1}$ are independent",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The events $E_{2}$ and $F_{2}$ are dependent",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The conditional probability $P(F_{1} | E_{1})$ is equal to the conditional probability $P(F_{1} | E_{2})$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The conditional probability $P(F_{1} | E_{1})$ is greater than the conditional probability $P(F_{2} | E_{2})$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $P$ be the plane such that it contains the straight line $\\frac{x-1}{2}=\\frac{y-3}{3}=\\frac{z+2}{1}$ and is perpendicular to the plane $x+2y+3z=4$. Let $P_1$ be the plane which passes through the point $(4,2,2)$ and is parallel to $P$.\\n\\nThen which of the following statements is (are) TRUE ?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The equation of the plane $P$ is $7x-5y+z=-10$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The distance between the planes $P$ and $P_1$ is $30$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The distance of the plane $P$ from the origin is $2\\sqrt{3}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The acute angle between the plane $P$ and the plane $2x+2y+z=3$ is $\\cos^{-1}\\left(\\frac{1}{3\\sqrt{3}}\\right)$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570012/exam_pipeline/13ff21e9_q6_13.png",
+          "altText": "Diagram of a particle trajectory",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q6_13}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Let $\\mathbb{R}$ denote the set of all real numbers. Let $f : \\mathbb{R} \\rightarrow \\mathbb{R}$ be an arbitrary function and let $g : \\mathbb{R} \\rightarrow \\mathbb{R}$ be the function defined by\\n\\n$g(x) = xf(x)$, for all $x \\in \\mathbb{R}$.\\n\\nThen which of the following statements is (are) TRUE ?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The function $g$ is always continuous at $x=0$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "If $f$ is continuous at $x=0$, then $g$ is differentiable at $x=0$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "If $g$ is differentiable at $x=0$, then $f$ is continuous at $x=0$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "If $g$ is differentiable at $x=0$, then $\\lim_{x\\to0} f(x)$ exists",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B,D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570013/exam_pipeline/13ff21e9_q7_14.png",
+          "altText": "Diagram of a quasi-static cycle",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q7_14}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Consider the matrix $M = \\begin{bmatrix} 2 & -1 \\\\ 1 & 0 \\end{bmatrix}$. Let $p,q,r,s,a,b,c$ and $d$ be integers such that $M^{26} = \\begin{bmatrix} p & q \\\\ r & s \\end{bmatrix}$ and $\\sum_{k=1}^{26} M^k = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$. Then which of the following statements is (are) TRUE ?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "There exists a $2 \\times 2$ invertible matrix $N$ with real entries such that $MN = N \\begin{bmatrix} 1 & 1 \\\\ 0 & 1 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The value of $a$ is $378$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "For any two given integers $m$ and $n$, there exist unique integers $x$ and $y$ such that $px+qy=m$ and $rx+sy=n$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "For each positive real number $t$, the system of linear equations $(a+t)x+by=1$ and $cx+(d+t)y=-1$ has a unique solution",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C,D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570036/exam_pipeline/13ff21e9_q8_21.png",
+          "altText": "reaction_sequence",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q8_21}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Let $S = \\{1, 2, 3, ..., 10\\}$. Consider the set $X = \\{R: R$ is an equivalence relation on the set $S$ such that $R$ has exactly 42 elements$\\}$. Then the number of elements in $X$ is _______.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "2520.00",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570015/exam_pipeline/13ff21e9_q9_15.png",
+          "altText": "diagram of a tank with two immiscible liquids and a thin rod",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q9_15}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Consider the function $f : (-\\frac{\\pi}{2}, \\frac{\\pi}{2}) \\to (-\\infty, \\infty)$ defined by $f(x) = (|x| + |x - 1|) \\sin x + [x \\sin x]$, where $[x \\sin x]$ is the greatest integer less than or equal to $x \\sin x$. Let $\\alpha$ be the total number of points in the interval $(-\\frac{\\pi}{2}, \\frac{\\pi}{2})$ at which $f$ is NOT continuous, and let $\\beta$ be the total number of points in the interval $(-\\frac{\\pi}{2}, \\frac{\\pi}{2})$ at which $f$ is NOT differentiable. Then the value of $\\alpha + \\beta$ is _______",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "5.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The number of ways to distribute 10 identical red pens and 14 identical blue pens among four persons such that each person gets 6 pens, is _______",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "206.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $\\alpha = (1 - 2 \\cos (\\frac{\\pi}{11}))(1 - 2 \\cos (\\frac{3\\pi}{11}))(1 - 2 \\cos (\\frac{9\\pi}{11}))(1 - 2 \\cos (\\frac{27\\pi}{11}))(1 - 2 \\cos (\\frac{81\\pi}{11}))$. Then the value of $5 - \\alpha^2$ is _______",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "4.00",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570016/exam_pipeline/13ff21e9_q12_16.png",
+          "altText": "A diagram of a hollow, right circular cone rotating about the Z-axis.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q12_16}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Match each entry in List-I to the correct entry in List-II and choose the correct option.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "(P) → (1), (Q) → (2), (R) → (5), (S) → (4)",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "(P) → (3), (Q) → (1), (R) → (4), (S) → (5)",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "(P) → (1), (Q) → (2), (R) → (4), (S) → (5)",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "(P) → (2), (Q) → (3), (R) → (5), (S) → (4)",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780569995/exam_pipeline/13ff21e9_q13_4.png",
+          "altText": "List-I and List-II matching question",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q13_4}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780569998/exam_pipeline/13ff21e9_q13_5.png",
+          "altText": "Configurations made of straight and semi-circular narrow tubes containing air",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q13_5}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Match each entry in List-I to the correct entry in List-II and choose the correct option. $\\sin^6 x + \\cos^4 x = 1$ $\\sin^2 x + \\cos^6 x = 1$ $\\cos^2 \\left( \\frac{x}{2} \\right) - \\sin^2 x = \\frac{1}{2}$ $6 \\sin^2 \\left( \\frac{x}{2} \\right) - \\cos 3x = 3$",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$(P) \\rightarrow (2), (Q) \\rightarrow (5), (R) \\rightarrow (3), (S) \\rightarrow (4)$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$(P) \\rightarrow (5), (Q) \\rightarrow (3), (R) \\rightarrow (2), (S) \\rightarrow (4)$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$(P) \\rightarrow (5), (Q) \\rightarrow (4), (R) \\rightarrow (1), (S) \\rightarrow (3)$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$(P) \\rightarrow (4), (Q) \\rightarrow (3), (R) \\rightarrow (2), (S) \\rightarrow (5)$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570004/exam_pipeline/13ff21e9_q14_6.png",
+          "altText": "List-II",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q14_6}}"
+        }
+      ]
+    },
+    {
+      "questionText": "For real numbers $\\alpha, \\beta, \\gamma, \\delta$ and $\\mu$, consider the matrix $M = \\begin{bmatrix} \\alpha & \\frac{1}{\\sqrt{2}} & -\\frac{1}{\\sqrt{2}} \\\\ \\frac{1}{\\sqrt{3}} & \\beta & \\frac{1}{\\sqrt{3}} \\\\ \\gamma & \\delta & \\mu \\end{bmatrix}$. Let $\\vec{u}=\\alpha \\hat{i} + \\frac{1}{\\sqrt{3}} \\hat{j}+\\gamma \\hat{k}$, $\\vec{v} = \\frac{1}{\\sqrt{2}} \\hat{i} +\\beta \\hat{j} +\\delta \\hat{k}$ and $\\vec{w} = -\\frac{1}{\\sqrt{2}} \\hat{i} + \\frac{1}{\\sqrt{3}} \\hat{j} +\\mu \\hat{k}$. Suppose that $MM^T= I$, where $M^T$ is the transpose of the matrix $M$, and $I$ is the $3 \\times 3$ identity matrix. Match each entry in List-I to the correct entry in List-II and choose the correct option. List-I (P) The value of $\\gamma^2+\\delta^2$ is (Q) If $x \\vec{u} + y \\vec{v} +z \\vec{w} = \\hat{j}$ for some real numbers $x, y$ and $z$, then the value of $x$ is (R) The value of $|\\vec{u} \\cdot (\\vec{v} \\times \\vec{w})|$ is (S) The value of $|\\vec{u} \\times (\\vec{v} \\times \\vec{w})|$ is List-II (1) $0$ (2) $1$ (3) $\\frac{1}{\\sqrt{6}}$ (4) $\\frac{1}{\\sqrt{3}}$ (5) $\\frac{5}{6}$",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "(P) → (5), (Q) → (4), (R) → (2), (S) → (1)",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "(P) → (4), (Q) → (5), (R) → (1), (S) → (2)",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "(P) → (5), (Q) → (3), (R) → (2), (S) → (1)",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "(P) → (5), (Q) → (4), (R) → (1), (S) → (2)",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570021/exam_pipeline/13ff21e9_q15_17.png",
+          "altText": "List-I and List-II figures",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q15_17}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570025/exam_pipeline/13ff21e9_q15_18.png",
+          "altText": "chemical structures for List-I and List-II",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q15_18}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Match each entry in List-I to the correct entry in List-II and choose the correct option.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "(P) → (3), (Q) → (4), (R) → (1), (S) → (2)",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "(P) → (3), (Q) → (2), (R) → (1), (S) → (5)",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "(P) → (3), (Q) → (2), (R) → (4), (S) → (5)",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "(P) → (4), (Q) → (1), (R) → (2), (S) → (3)",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570029/exam_pipeline/13ff21e9_q16_19.png",
+          "altText": "A diagram showing four planar structures made of uniform solid rods and their corresponding moments of inertia about an axis $OCO'$.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q16_19}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780570033/exam_pipeline/13ff21e9_q16_20.png",
+          "altText": "chemical structures and reaction equations",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q16_20}}"
+        }
+      ]
+    }
+  ]
+}

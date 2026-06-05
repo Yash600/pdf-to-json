@@ -1,0 +1,591 @@
+{
+  "job_id": "05fb2cb2",
+  "pdf_hash": "1fb06af57534e9d7f649038c990da107b92644ba44731b030b6dccb196f6ba5d",
+  "page_count": 33,
+  "question_count": 20,
+  "is_scanned": true,
+  "elapsed_seconds": 500.2,
+  "questions": [
+    {
+      "questionText": "” Brilliant’ mS QUESTION PAPER WITH ANSWER KEY | PAPER 1 FRE (advent) 36 Peet SECTION 4 (Maximum Marks: 12) ‘This Section contains FOUR (08) questions. Each question has FOUR options (A), (8), (C) and (0), ONLY ONE ofthese four options i the correct ‘+ Foreeach question, choose the option corresponding to the corect answer. ‘+ Answer to each question wil be evaluated according to the following marking scheme: Full Marks: +3 ONLY the correct option is chosen; Zero Marks 0. fnone ofthe options is chosen (ue. the question is unanswered); Negative Marks : ~1 Inallother cases. QU [Consider the fine FO.%) > a8) given by £0) = VF loge(x)— +1 | Then which one ofthe following statements is TRUE? the interval (0,0) Tet Pbe the plane such hart contains the srsight ine 52 =2= == and is perpendicular the plane x + 2y + 3z=4. Let P, be the plane which passes through the point (4,2,2) and is parallel oP ‘Then which ofthe following statements i (are) TRUE ? (©) | The acute angle btwecn the plane Pand the plane 2x + 2y-+2 = 3 ix cos~* (5) ‘Cornet statement(s) about the compounds X, ¥ and Zis(are) ‘MnO, + Cone. HCl ——= MnCl; + x + H,0 (greenish yellow gas) NHy+ X ——* Y + HEL (excess) K+, RABEES -g, (excess) ()_[ Xi used for sterilizing drinking water (©) | Zis used in the enrichment of °U. $f(x)=\\sqrt{x} \\log_{\\mathrm{e}}(x)-x+1 $",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "| The derivative ofthe function fis decreasing in the interval (0,1)",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "_| The funtion Fas. local maximum at some point a € (0,00)",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "|The function f has a local minimum at some point b € (0,00)",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "| The function f has NEITHER a point of local maximum NOR a point of local minimum in",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578411/exam_pipeline/05fb2cb2_q1_9.png",
+          "altText": "A table with 4 rows and 5 columns containing multiple choice options for question 1.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q1_9}}"
+        }
+      ]
+    },
+    {
+      "questionText": "[Lax Fb ple on paboln y= wht alps mgt oo paolo] | point P is 4. Let @ beth oir inthe int quaint ing onthe Gle 22-49? =2 sch tthe Alpe of tenga the ce at te pl Qs 1. Let Rb he pot int ft gaan ying onthe ellipse #2 + 4y = 8 such that the slope ofthe tangent to the ellipse a the point Ris ~¥ | Then the radius of the citcle Passing through the points P,Q and R is Oo) vw |e we |© 5 Ol] ws 3 4] =3f(2), forall xe R ‘Then which ofthe following statements is (are) TRUE ? + y? = 2 andthe parabola? \\with postive slope, passes through (R) Let M be the end point ofthe laus rectum (3) the point (3,2) ofthe cllipse 3x2-+ 4y2 = 48) such that ‘Mics in the Fist quadrant. The the normal to the clipe drawn at passes through (S) Let H be the hyperbola whose centeis at (4) the point (2,5) the origin, one of the foci i at (5,0), and one direetix is Sx +16 = 0 ‘Then Hf passes through [Consider a circuit consisting ofa capacitor o capacitance C anda coil with N tums per unit length, ross sectional area $ and length d, where d® > $. There is another col of length d/2, cross sectional area $/2 and 2N tums per unit length completely inside the larger col, as shown in the figure, The ends ofthis smaller col are connected with each other by an insulated conducting wire The selfinduetance ofthe larger coils, Neglecting edge effects and all the Ohmic resistances, the resonant frequeney ofthe ereuit is: «® @ oO o [ Fora reversible reaction R= Pa Gonstant cmperture, both the forward andthe backward eaetions| are fest ordcr elementary reactions with ate constants A; and, respectively. At tame zero, the | concentration of Ris [Rand the concentration of Ps zero, A any given time, [R] and [P] ae the | concentrations of Rand P respectively. If ~ Ay the correct graphical epescuation ofthe ection ) | oor © [Gor ©) [908 L A ] w ® om ol D tR a Na on i vi HePalBaso, NHN, heat ‘The comect statements) about Q, R, $ and Tisfare) (©) | Tisa heterocyclic compound. {9,10-dihydroxyanthracene. m0 (tte",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578416/exam_pipeline/05fb2cb2_q2_14.png",
+          "altText": "Circuit diagram with a capacitor and a coil",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q2_14}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Which one ofthe following matrices can be obtained by performing elementary row transformations con the 3% 3 idemity matrix ? @ fe ® by pad © Eid i) [The correct order of dipole moments forthe given species is (@) | BR=NHY <NF <NH (©) [NHS <BR<NH ENF,",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578422/exam_pipeline/05fb2cb2_q3_20.png",
+          "altText": "Matrix options for question 3",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q3_20}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578427/exam_pipeline/05fb2cb2_q3_25.png",
+          "altText": "Solid cylinder rolling without slipping on a horizontal surface",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q3_25}}"
+        }
+      ],
+      "topic": "BEE rao 206 Pee"
+    },
+    {
+      "questionText": "[ Considering only the principal values ofthe inverse wigonometrc functions, the value of e cot Mo(-1) 1020 )) + 10 since tan*(2)) | 3t7 1 7 ©] a+7 [oO] 3n-5 A double convex lens made of glass of refractive index 1.5 and radii of curvature of the curved | cris 20 om cache mmaned isd of racveinde The comet pt shoving [retain oft pover, ins unis of oper) a con af Wher B) | Rewer © o fe (CHs60..0 “Ory 2.NaiCO3 ‘pe OH ® Hs On. Ajj aqueous NaOH ar OH io oH WOR, Any oh ee ‘Msi the major products obtained inthe reactions given in List-I with the corresponding List SCL, aatts Se ” @ [Pa2Q RSS 4 © [Po Q—2: R384 (©) [PH2QS1ERIESHS $\\cot^{-1}(\\cot(-11))+10 \\sin \\left(2\\cos^{-1} \\left(\\frac{1}{\\sqrt{2}}\\right)\\right) + 10\\sin\\left(2 \\tan^{-1} (2)\\right)$",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "BEE rao 206 Pee"
+    },
+    {
+      "questionText": "Suppose that Box I contains 6 red balls and 9 green balls, and Box II contains @ red balls and 12 green | ‘alls. All the balls of Box Land Box Il are mixed rogether and a ball is chosen at random from them. Ler bethe event thatthe ball chosen belonged to Box Iand let E> be he event thatthe ball chosen belonged to Box Il. Let F be the event thatthe hall chosen is red and let F, be the event that he ball | chosen i green, | | Then which ofthe following statements is (are) TRUE? The numberof elements inthe set Wiss (re t-2n2n1: si? %) cosa =a} (iss A@]P=2. O56. W936. 9-H B® [@=0. QO. B30. OH © 1P=6. O+4. WH. 9G) D [M=4. O46. M32. G6) Emission of radiation fiom oxygen and nitrogen atoms excited by charged particles TW) [P8064 ROL, S23 [Po Q2, RLS (©) | P4, Q-51, RP, 3 (D) | P95, Q-44, R41, S52 _ [The 2s.and the 2p orbital energies of hydrogen atom are FH) and Fay(H), respectively. The 2s and the 2p orbital energies of lithium atom are Fs(Li) and Fy(Li), respectively. The correct options) about the orbital energies sare) @ | ENLy= © [A0n< Fi, Propene —+ Cyclopropane AN> Oand A8<0 AH<Oand AS> 0 () [P32:Q53:R+5;554 (© [P32:Q35;R31;5—4 zer0 List contains different molecular shapes and List-IT contains total number of species withthe same molecular shapes from the given species. Match each entry in List-1 with the appropriate A [PI Q52R 95S 53 © [P53:Q52:R5 1594 ) [P31 Q>3R>5S 54",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "| The events Bj and F are independent",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "_| Theevents and Fy are dependent",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "| Theeonditional probability PCF, | E,) is equal (othe conditional probability PCF, |E2)",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "| Thc conditional probability PCF, |E, is greater than the conditional probability PCF: | Ex)",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578443/exam_pipeline/05fb2cb2_qunk_41.png",
+          "altText": "marking scheme table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_qunk_41}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578456/exam_pipeline/05fb2cb2_q5_tbl_rNonecNone_55.png",
+          "altText": "A table with four rows and two columns containing mathematical expressions and inequalities",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q5_tbl_rNonecNone_55}}"
+        }
+      ],
+      "topic": "Zero Marks: 0 Hfnone of the optionsis chosen (Le. the questions unanswered};"
+    },
+    {
+      "questionText": "[panicles thrown witha spec vom a point Oat an angle @ wih the horizontal plane such hat | iepasses hough the point Pata height of 1m and horizontal distance of 5m fom 0, a8 shown in the figure. If acceleration due to gravity is g ms~*, then the correct statement(s) is/are: @ [tro =e v= SE ms (©) | Af @ = 30°, the particle reaches its maximum height after reaching P ©) | 9= tant (2), then v= 1255 ms",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578457/exam_pipeline/05fb2cb2_q6_56.png",
+          "altText": "Problem statement for Q.6",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q6_56}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578466/exam_pipeline/05fb2cb2_q6_63.png",
+          "altText": "Chemical reaction equations",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q6_63}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578470/exam_pipeline/05fb2cb2_q7_65.png",
+          "altText": "Problem statement for Q.7",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q7_65}}"
+        }
+      ],
+      "topic": "BEE res) 306 Pepe"
+    },
+    {
+      "questionText": "[Let S=(1.2,3,..,10) Consider the set X = (R: Risan equivalence relation onthe set S such that has exactly 42 elements} | “Then the numberof elements in X is ‘ns: 2520.00 [A tank contains two immiscible liquids of densities 6p and 2p. The higher density liquid is filled ‘upto aheight L/2 from the bottom. A thin rod of density p and length Lis flly immersed and. hinged at dhe bottom so that it can oscilla freely, as shown in the figure. Ith rd is slighily disubed om its equilibrium te ime ptiod of sl osiaons is where gis the acceleration due to gravity. The value of nis: | | jz 3m Sime (© [P55.053,R42,S91 [Two eylndrs, both Fited with frictionless pistons, are illed with mintures of He and Ar gases. In the iat cylinder, the mises of He and Aare m, ad mi, espetvly, nthe second etn te masses of Heand Ararem and my, respectively. The molar mass of Aris 10 times the mela mass ‘of le Theexemal pressure applied bythe itn onthe Fis clinder neds ob tines that on the second elindr 50 that the volume ofthe zs mires in both he elindrs are equal the sae tempera, Assiming He and Ar behave lie el ete, the value of (n/m) is",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "Zero Marks: 0 Inallather cases,"
+    },
+    {
+      "questionText": "Considers incon f= (©, $) > (m=) dtd by FG) = (hl + le ADsinx + Lxsinx, | where [xsin.x] isthe greatest imeyer less than or equal to x sinx Leta be the total numberof points inthe interval (— , $) at which f is NOT contimious, and let be the total umber of point inthe interval (~ | | | Then the valueof «+ is at which is NOT dlfereniable. $M = \\begin{bmatrix} 2 & -1 \\\\ 1 & 0 \\end{bmatrix}$ $M^{26} = \\begin{bmatrix} p & q \\\\ r & s \\end{bmatrix}$ and $\\sum_{k=1}^{26} M^k = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "5.00",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578482/exam_pipeline/05fb2cb2_q8_75.png",
+          "altText": "Table of options",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q8_75}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578484/exam_pipeline/05fb2cb2_q8_76.png",
+          "altText": "Multiple choice options for question 8",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q8_76}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578485/exam_pipeline/05fb2cb2_q8_77.png",
+          "altText": "reaction sequence diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q8_77}}"
+        }
+      ],
+      "topic": "Zero Marks: 0 Inallather cases,"
+    },
+    {
+      "questionText": "[ta | | | Then the yalueof 5a?",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "4.00",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578554/exam_pipeline/05fb2cb2_q9_133.png",
+          "altText": "Diagram of a tank with two liquids and a rod",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q9_133}}"
+        }
+      ],
+      "topic": "Zero Marks: 0 Inallather cases,"
+    },
+    {
+      "questionText": "the point (8,33) @ 1-08. O+4 B30, O-= ® [P= O-2 R30. = © [P=6. Qe @W34. 9-4 © [PH @-0. We. G-",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578542/exam_pipeline/05fb2cb2_q16_124.png",
+          "altText": "List-I and List-II matching table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q16_124}}"
+        }
+      ],
+      "topic": "Lists Listen"
+    },
+    {
+      "questionText": "_ { Consider large disk of radius and two smaller disks, each of radius circumference, a shown inthe figure. The smaller disks are initially in contact with each other, ‘with an angular separation 4@ between their centers. They are made to roll without sipping in ‘opposite directions, with constant angular velocities w and 2a while the large disk is held stationary. The time t at which the smaller disks are again in contact i= [Use sin(A0) = 4 and ignore gravity.| /50, ying on its [nts (05 mod nally a bar pressu,comprencd at a onstant empsratr of 600 K | incwo steps: ist aginst constant extemal pss of Phar (2 P<), and the against constant | extemal pressure of bar Atsach pth ampresons slapped nly when he ress of he a8 | becomes equal wo the extra! pressure. The tou work done on the gs in hese steps iW | Considering al posible values of 72 = P'<8) an taking the gs constant as (in) Kel) he | inna value of Gin Dis [fw An UBH, ge 1 BH an 2H R ‘ s | £0; GOH Kolbe's electrolysis rio sme hic q Pcl,",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578404/exam_pipeline/05fb2cb2_q1_4.png",
+          "altText": "diagram of a large disk with two smaller disks",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q1_4}}"
+        }
+      ],
+      "subject": "PHYSICS"
+    },
+    {
+      "questionText": "Mage fea i de Broglie wave oe econ cmb patel (© | Freqenyof te ition emit canbe exprenedas (22) Fora given value of ¥z/¥4.7 does not depend on the temperature ofthe isothermal process (© | HE, /¥; = @, then the temperature of the as a is 4 times the temperature of the was a € The electric field associated with an electromagnetic wave wavelling in vacuum is given by Eq sin(3y + 42 + ctf, where cis the angular frequency. Al quantities are in SI units. The correct | statements) about this wave isa: | Given: speed of ight in vacuum € = 3x 10\" ms\"4) (© | The value of w is 1.5 10° rad s=* sin(ay +42-+-00)(4j—38) Dark and bright fringes (4) Scattering of light by molecules inthe [inthe following reaction sequence, Q, R, Sand T are the major products Square Pyramidal SOCIs, XeOF, CIFs, CIFs, XeFs’, SO, XeFi', SF sett (one",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "| Magnitude of change nol enery ofthe leon ean be expressed a & 2 — \"|",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578557/exam_pipeline/05fb2cb2_q12_136.png",
+          "altText": "diagram of a hollow right circular cone",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q12_136}}"
+        }
+      ],
+      "subject": "PHYSICS",
+      "topic": "Zero Marks © tfnone ofthe options is chosen (ie. the question is unanswered);"
+    },
+    {
+      "questionText": "[A quitatie eee oF nostic el gas ons a otermal proces (a) Towed by an isacorie proces (be an anadabatic process en) shown inthe Sige The voles of the gas are V; and V2 at @ and b, respectively. If the eycle has heat input Qin and output Qoye, then the cfcny of hcl i dfned a7 = 28°25, The cares statement) se: {Given:n2 ~ 07] Ye % v process ab, $\\frac{1}{(\\alpha+1)^{2026}} + \\frac{1}{(\\beta+1)^{2026}}$ $\\frac{1}{(\\alpha+1)^{2027}} + \\frac{1}{(\\beta+1)^{2027}}$ $\\frac{1}{(\\gamma-1)^{2026}} + \\frac{1}{(\\delta-1)^{2026}}$ $\\frac{1}{(p+1)^3} + \\frac{1}{(r+1)^3}$",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "| 1FVA/¥; = 8, the beat released inthe process be is smaller than the heat absorbed in the",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578463/exam_pipeline/05fb2cb2_q6_61.png",
+          "altText": "Diagram of a particle trajectory",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q6_61}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578465/exam_pipeline/05fb2cb2_q6_tbl_rNonecNone_62.png",
+          "altText": "Table of answer choices for question 6",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q6_tbl_rNonecNone_62}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578473/exam_pipeline/05fb2cb2_q7_68.png",
+          "altText": "Graph of a quasi-static cycle",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q7_68}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578474/exam_pipeline/05fb2cb2_q7_tbl_rNonecNone_69.png",
+          "altText": "Table of answer choices for question 7",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q7_tbl_rNonecNone_69}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578493/exam_pipeline/05fb2cb2_q13_84.png",
+          "altText": "List-I and List-II matching table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q13_84}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578494/exam_pipeline/05fb2cb2_q13_85.png",
+          "altText": "Multiple choice options for matching table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q13_85}}"
+        }
+      ],
+      "subject": "PHYSICS",
+      "topic": "EE re 206 Peet"
+    },
+    {
+      "questionText": "[As shown in the figure, an insulated container is fitted with a thermally conducting but immovable | partition (P,) and a freely movable but thermally insulated piston (P,). The partition P, with ‘Soma ood om eon ee Ad wilh ihe te bata son, Sud Seth contigo reo anton Theives lh at | ssn: isalvaye atte scope pee, nly te ite ewan i tps of | andi 7, The time it tks fr te tee dference wo become 2s ne KA, where sth iver gs cnn. The vai of mit | iven'n2 = 07) | ohh SE re 296, Pe (Q.12 [A hollow, right circular cone oF base radius R and eight h, with its tip atthe origin is rotating | about the Z-axis with an angular velocity was shown inthe figure. The cone carries a total | charge @ uniformly distributed on its curved surface. The magnitude of magnetic field at a | point (20.2) ,where 23> Rand» Ast 22, The value ofmis: Qs Tse sows four configurations made of salt and semi-circular narrow wbes containing ai A sound ‘wave of wavelength A= 0.29 m eles these srctres tthe poi Sand a sound decors placed aD. ‘Berween the pits Sand D, the sound travels ony through the tbes. List contains the possible smallest ‘als oF Wee the figures) for which the detector D records maximum ampliuds, Tana effec of Sharp comers. Given cos(15\") = 097], (Choos he option that best describes the smc Between the entries in List hase in List 1. Listt Lista ° (132m @ @)1.19m ® @)0S1m ) (029m",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578522/exam_pipeline/05fb2cb2_q14_113.png",
+          "altText": "List-I and List-II matching table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q14_113}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578525/exam_pipeline/05fb2cb2_q14_114.png",
+          "altText": "Optical effects and physical phenomena table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q14_114}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578529/exam_pipeline/05fb2cb2_q14_116.png",
+          "altText": "A table with molecular shapes and their corresponding species",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q14_116}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578552/exam_pipeline/05fb2cb2_q10_132.png",
+          "altText": "Carnot engine diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q10_132}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578555/exam_pipeline/05fb2cb2_q11_134.png",
+          "altText": "Insulated container diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q11_134}}"
+        }
+      ],
+      "subject": "PHYSICS",
+      "topic": "EE rm 206, Pe"
+    },
+    {
+      "questionText": "13 m (©) [P53.Q54, R41, $2 (D) | P33, Q—4, R45, $2 $\\cos(15^\\circ) = 0.97$",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "[POR O83. RS, SI ®) [P43 RLS",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578496/exam_pipeline/05fb2cb2_q13_86.png",
+          "altText": "List-I and List-II matching table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q13_86}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578532/exam_pipeline/05fb2cb2_q15_117.png",
+          "altText": "A large mathematical expression involving matrices and vectors",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q15_117}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578535/exam_pipeline/05fb2cb2_q15_118.png",
+          "altText": "List-I and List-II matching table with mathematical expressions",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q15_118}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578540/exam_pipeline/05fb2cb2_qunk_123.png",
+          "altText": "Answer options table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_qunk_123}}"
+        }
+      ],
+      "subject": "PHYSICS",
+      "topic": "EE rm 206, Pe"
+    },
+    {
+      "questionText": "[Considering LiBH reduces an ester group wo the corresponding alcohol and does not reduce a |stbovoicai aoup, th ore semen about the major prods P, Rand Sis | 1.iBH, chy 1 BH",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578430/exam_pipeline/05fb2cb2_q3_27.png",
+          "altText": "Multiple choice question table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q3_27}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578439/exam_pipeline/05fb2cb2_q4_36.png",
+          "altText": "Organic chemistry reaction diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q4_36}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578543/exam_pipeline/05fb2cb2_q16_125.png",
+          "altText": "List-I and List-II matching table with planar structures and moment of inertia options",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q16_125}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578545/exam_pipeline/05fb2cb2_q16_126.png",
+          "altText": "List-I and List-II matching table with planar structures and moment of inertia options",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q16_126}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578547/exam_pipeline/05fb2cb2_q16_127.png",
+          "altText": "chemical reaction table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q16_127}}"
+        }
+      ],
+      "subject": "CHEMISTRY",
+      "topic": "Negative Marks : —1 Inallother cases."
+    },
+    {
+      "questionText": "4 2H |p 7 = @ | #0,¢ CoH",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "subject": "CHEMISTRY",
+      "topic": "Negative Marks : —1 Inallother cases."
+    },
+    {
+      "questionText": "/ The tora aumber of all possible isomers for the square planar complex with formula | KiMevesyNonyatis_ | (M = metal ion and gly = NH;CH,COO ) |",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "8.00 : =",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578556/exam_pipeline/05fb2cb2_q11_135.png",
+          "altText": "chemical structure diagram for reaction",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q11_135}}"
+        }
+      ],
+      "subject": "CHEMISTRY",
+      "topic": "Zero Marks: 0 Inallother cases."
+    },
+    {
+      "questionText": "[List contains various physicl/chemical processes, and List Al conlains combinations of changes Jn enthalpy (AA) and entropy (AS). Match each entry in List-1 10 the appropriate entry in List, and choose the correct option. tis Lisett (®)Physisnpion (a> Oana as>0 (Diamond — Graphite @)aH<0and as <0 (R) Denaturation of prosin (0) A <0and As ~0",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578500/exam_pipeline/05fb2cb2_q13_89.png",
+          "altText": "List-I and List-II matching question",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q13_89}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578558/exam_pipeline/05fb2cb2_qunk_137.png",
+          "altText": "instructions for section 4",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_qunk_137}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780578561/exam_pipeline/05fb2cb2_qunk_tbl_rNonecNone_138.png",
+          "altText": "List-I and List-II table",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_qunk_tbl_rNonecNone_138}}"
+        }
+      ],
+      "subject": "CHEMISTRY",
+      "topic": "Negative Marks: —1 Inall other cases."
+    },
+    {
+      "questionText": "- Hat ® Hg ‘ Hy OW o} Huo 9 Cp cH confi : oh @) [P>20— GR ESS © [Pa2QSERS5S53 (©) [P>3.Q>5R—4S—2",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "[P>3:Q 4 R—>5;S—2",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "subject": "CHEMISTRY",
+      "topic": "Q"
+    }
+  ]
+}

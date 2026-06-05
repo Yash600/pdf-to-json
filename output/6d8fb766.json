@@ -1,0 +1,1278 @@
+{
+  "job_id": "6d8fb766",
+  "pdf_hash": "1fb06af57534e9d7f649038c990da107b92644ba44731b030b6dccb196f6ba5d",
+  "page_count": 33,
+  "question_count": 37,
+  "is_scanned": true,
+  "elapsed_seconds": 277.81,
+  "questions": [
+    {
+      "questionText": "Consider the function $f:(0,\\infty) \\to (-\\infty, \\infty)$ given by $f(x)=\\sqrt{x} \\log_{\\mathrm{e}}(x)-x+1$. Then which one of the following statements is TRUE?",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The derivative of the function $f$ is decreasing in the interval $(0,1)$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The function $f$ has a local maximum at some point $a \\in (0, \\infty)$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The function $f$ has a local minimum at some point $b \\in (0, \\infty)$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The function $f$ has NEITHER a point of local maximum NOR a point of local minimum in the interval $(0,\\infty)$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $P$ be the point on the parabola $y=x^2$ such that the slope of the tangent to the parabola at the point $P$ is 4. Let $Q$ be the point in the first quadrant lying on the circle $x^2+y^2=2$ such that the slope of the tangent to the circle at the point $Q$ is $-1$. Let $R$ be the point in the first quadrant lying on the ellipse $x^2 +4y^2 = 8$ such that the slope of the tangent to the ellipse at the point $R$ is $-\\frac{1}{2}$. Then the radius of the circle passing through the points $P,Q$ and $R$ is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$\\sqrt{10}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$\\sqrt{5}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$\\sqrt{\\frac{5}{2}}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$2\\sqrt{5}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Which one of the following matrices can be obtained by performing elementary row transformations on the $3 \\times 3$ identity matrix?",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ 1 & 1 & 1 \\\\ 1 & 1 & 1 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ 2 & 3 & 4 \\\\ 1 & 2 & 1 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ 2 & 3 & 4 \\\\ 2 & 5 & 8 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ -1 & 1 & 2 \\\\ 0 & 2 & 3 \\end{bmatrix}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575318/exam_pipeline/6d8fb766_q3_0.png",
+          "altText": "matrix options",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q3_0}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575321/exam_pipeline/6d8fb766_q4_2.png",
+          "altText": "math problem",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q4_2}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Considering only the principal values of the inverse trigonometric functions, the value of $\\cot^{-1}(\\cot(-11))+10 \\sin \\left(2 \\cos^{-1} \\left(\\frac{1}{\\sqrt{2}}\\right)\\right) + 10\\sin\\left(2 \\tan^{-1} (2)\\right)$ is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$3\\pi + 7$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$7$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$4\\pi + 7$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$3\\pi - 5$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Suppose that Box I contains $6$ red balls and $9$ green balls, and Box II contains $8$ red balls and $12$ green balls. All the balls of Box I and Box II are mixed together and a ball is chosen at random from them. Let $E_{1}$ be the event that the ball chosen belonged to Box I and let $E_{2}$ be the event that the ball chosen belonged to Box II. Let $F_{1}$ be the event that the ball chosen is red and let $F_{2}$ be the event that the ball chosen is green. Then which of the following statements is (are) TRUE ?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The events $E_{1}$ and $F_{1}$ are independent",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The events $E_{2}$ and $F_{2}$ are dependent",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The conditional probability $P(F_{1} | E_{1})$ is equal to the conditional probability $P(F_{1} | E_{2})$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The conditional probability $P(F_{1} | E_{1})$ is greater than the conditional probability $P(F_{2} | E_{2})$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $P$ be the plane such that it contains the straight line $\\frac{x-1}{2} = \\frac{y-3}{3} = \\frac{z+2}{1}$ and is perpendicular to the plane $x+2y+3z=4$. Let $P_1$ be the plane which passes through the point $(4,2,2)$ and is parallel to $P$. Then which of the following statements is (are) TRUE?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The equation of the plane $P$ is $7x-5y+z=-10$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The distance between the planes $P$ and $P_1$ is $30$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The distance of the plane $P$ from the origin is $2\\sqrt{3}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The acute angle between the plane $P$ and the plane $2x+2y+z=3$ is $\\cos^{-1}\\left(\\frac{1}{3\\sqrt{3}}\\right)$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $\\mathbb{R}$ denote the set of all real numbers. Let $f : \\mathbb{R} \\to \\mathbb{R}$ be an arbitrary function and let $g : \\mathbb{R} \\to \\mathbb{R}$ be the function defined by $g(x) = xf(x)$, for all $x \\in \\mathbb{R}$. Then which of the following statements is (are) TRUE?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The function $g$ is always continuous at $x=0$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "If $f$ is continuous at $x=0$, then $g$ is differentiable at $x=0$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "If $g$ is differentiable at $x=0$, then $f$ is continuous at $x=0$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "If $g$ is differentiable at $x=0$, then $\\lim_{x \\to 0} f(x)$ exists",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Consider the matrix $M = \\begin{bmatrix} 2 & -1 \\\\ 1 & 0 \\end{bmatrix}$. Let $p,q,r,s,a,b,c$ and $d$ be integers such that $M^{26} = \\begin{bmatrix} p & q \\\\ r & s \\end{bmatrix}$ and $\\sum_{k=1}^{26} M^k = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$. Then which of the following statements is (are) TRUE ?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "There exists a $2 \\times 2$ invertible matrix $N$ with real entries such that $MN = N \\begin{bmatrix} 1 & 1 \\\\ 0 & 1 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The value of $a$ is $378$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "For any two given integers $m$ and $n$, there exist unique integers $x$ and $y$ such that $px + qy = m$ and $rx + sy = n$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "For each positive real number $t$, the system of linear equations $(a+t)x + by = 1$ and $cx + (d+t)y = -1$ has a unique solution",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $S = \\{1, 2, 3, ..., 10\\}$. Consider the set $X = \\{R: R$ is an equivalence relation on the set $S$ such that $R$ has exactly 42 elements$\\}$. Then the number of elements in $X$ is _______.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "2520.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Consider the function $f : (-\\frac{\\pi}{2}, \\frac{\\pi}{2}) \\to (-\\infty, \\infty)$ defined by $f(x) = (|x| + |x - 1|) \\sin x + [x \\sin x]$, where $[x \\sin x]$ is the greatest integer less than or equal to $x \\sin x$. Let $\\alpha$ be the total number of points in the interval $(-\\frac{\\pi}{2}, \\frac{\\pi}{2})$ at which $f$ is NOT continuous, and let $\\beta$ be the total number of points in the interval $(-\\frac{\\pi}{2}, \\frac{\\pi}{2})$ at which $f$ is NOT differentiable. Then the value of $\\alpha + \\beta$ is _________.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "5.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The number of ways to distribute 10 identical red pens and 14 identical blue pens among four persons such that each person gets 6 pens, is _________.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "206.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $\\alpha = (1 - 2 \\cos (\\frac{\\pi}{11}))(1 - 2 \\cos (\\frac{3\\pi}{11}))(1 - 2 \\cos (\\frac{9\\pi}{11}))(1 - 2 \\cos (\\frac{27\\pi}{11}))(1 - 2 \\cos (\\frac{81\\pi}{11}))$. Then the value of $5 - \\alpha^2$ is _________.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "4.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Match each entry in List-I to the correct entry in List-II and choose the correct option.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "(P) → (1), (Q) → (2), (R) → (5), (S) → (4)",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "(P) → (3), (Q) → (1), (R) → (4), (S) → (5)",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "(P) → (1), (Q) → (2), (R) → (4), (S) → (5)",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "(P) → (2), (Q) → (3), (R) → (5), (S) → (4)",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575329/exam_pipeline/6d8fb766_q13_5.png",
+          "altText": "List-I and List-II matching question",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q13_5}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Match each entry in List-I to the correct entry in List-II and choose the correct option.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "(P) $\\to$ (2), (Q) $\\to$ (5), (R) $\\to$ (3), (S) $\\to$ (4)",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "(P) $\\to$ (5), (Q) $\\to$ (3), (R) $\\to$ (2), (S) $\\to$ (4)",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "(P) $\\to$ (5), (Q) $\\to$ (4), (R) $\\to$ (1), (S) $\\to$ (3)",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "(P) $\\to$ (4), (Q) $\\to$ (3), (R) $\\to$ (2), (S) $\\to$ (5)",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "For real numbers $\\alpha, \\beta, \\gamma, \\delta$ and $\\mu$, consider the matrix $M = \\begin{bmatrix} \\alpha & \\frac{1}{\\sqrt{2}} & -\\frac{1}{\\sqrt{2}} \\\\ \\frac{1}{\\sqrt{3}} & \\beta & \\frac{1}{\\sqrt{3}} \\\\ \\gamma & \\delta & \\mu \\end{bmatrix}$. Let $\\vec{u}=\\alpha \\hat{i} + \\frac{1}{\\sqrt{3}} \\hat{j}+\\gamma \\hat{k}$, $\\vec{v} = \\frac{1}{\\sqrt{2}} \\hat{i} +\\beta \\hat{j} +\\delta \\hat{k}$ and $\\vec{w} =- \\frac{1}{\\sqrt{2}} \\hat{i} + \\frac{1}{\\sqrt{3}} \\hat{j} +\\mu \\hat{k}$. Suppose that $MM^T= I$, where $M^T$ is the transpose of the matrix $M$, and $I$ is the $3 \\times 3$ identity matrix. Match each entry in List-I to the correct entry in List-II and choose the correct option. List-I (P) The value of $\\gamma^2+\\delta^2$ is (Q) If $x \\vec{u} + y \\vec{v} +z \\vec{w} = \\hat{j}$ for some real numbers $x, y$ and $z$, then the value of $x$ is (R) The value of $|\\vec{u} \\cdot (\\vec{v} \\times \\vec{w})|$ is (S) The value of $|\\vec{u} \\times (\\vec{v} \\times \\vec{w})|$ is List-II (1) $0$ (2) $1$ (3) $\\frac{1}{\\sqrt{6}}$ (4) $\\frac{1}{\\sqrt{3}}$ (5) $\\frac{5}{6}$",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "(P) → (5), (Q) → (4), (R) → (2), (S) → (1)",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "(P) → (4), (Q) → (5), (R) → (1), (S) → (2)",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "(P) → (5), (Q) → (3), (R) → (2), (S) → (1)",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "(P) → (5), (Q) → (4), (R) → (1), (S) → (2)",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Match each entry in List-I to the correct entry in List-II and choose the correct option. \n\nList-I\n\n(P) The circle with centre $(1,2)$ and touching the straight line $3x+4y=1$, passes through\n\n(Q) The common tangent to the circle $x^2+y^2=2$ and the parabola $y^2=8x$ with positive slope, passes through\n\n(R) Let $M$ be the end point of the latus rectum of the ellipse $3x^2+4y^2=48$ such that $M$ lies in the first quadrant. Then the normal to the ellipse drawn at $M$ passes through\n\n(S) Let $H$ be the hyperbola whose centre is at the origin, one of the foci is at $(5,0)$, and one directrix is $5x+16=0$. Then $H$ passes through",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "(P) → (3), (Q) → (4), (R) → (1), (S) → (2)",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "(P) → (3), (Q) → (2), (R) → (1), (S) → (5)",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "(P) → (3), (Q) → (2), (R) → (4), (S) → (5)",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "(P) → (4), (Q) → (1), (R) → (2), (S) → (3)",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Consider a large disk of radius $R$ and two smaller disks, each of radius $r = R/50$, lying on its circumference, as shown in the figure. The smaller disks are initially in contact with each other, with an angular separation $\\Delta\\theta$ between their centers. They are made to roll without slipping in opposite directions, with constant angular velocities $\\omega$ and $2\\omega$ while the large disk is held stationary. The time $\\tau$ at which the smaller disks are again in contact is:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$\\tau = 51 \\times (2\\pi-\\frac{4}{51})/\\omega$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$\\tau = 51 \\times (2\\pi-\\frac{2}{51})/3\\omega$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$\\tau = 51 \\times (2\\pi-\\frac{4}{51})/3\\omega$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$\\tau = 51 \\times (2\\pi-\\frac{2}{51})/\\omega$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575336/exam_pipeline/6d8fb766_q1_7.png",
+          "altText": "A diagram showing a large disk with two smaller disks on its circumference.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q1_7}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Consider a circuit consisting of a capacitor of capacitance $C$ and a coil with $N$ turns per unit length, cross sectional area $S$ and length $d$, where $d^2 \\gg S$. There is another coil of length $d/2$, cross sectional area $S/2$ and $2N$ turns per unit length completely inside the larger coil, as shown in the figure. The ends of this smaller coil are connected with each other by an insulated conducting wire. The self-inductance of the larger coil is $L$. Neglecting edge effects and all the Ohmic resistances, the resonant frequency of the circuit is:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$\\frac{4}{\\sqrt{15 LC}}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$\\frac{6}{\\sqrt{5 LC}}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$\\frac{2}{\\sqrt{3 LC}}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$\\frac{\\sqrt{2}}{\\sqrt{3 LC}}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575320/exam_pipeline/6d8fb766_q3_1.png",
+          "altText": "cylinder diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q3_1}}"
+        }
+      ]
+    },
+    {
+      "questionText": "A solid cylinder of radius $R$ rolls without slipping with a center of mass speed $v_0 = \\sqrt{\\frac{gR}{3}}$ on a horizontal surface with a vertical edge, as shown in the figure. Here, $g$ is the acceleration due to the gravity. At the moment when the cylinder loses contact with the surface due to rotation around the corner, the speed of its center of mass is:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$0$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$\\sqrt{\\frac{5 gR}{7}}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$\\sqrt{\\frac{gR}{15}}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$\\sqrt{\\frac{3gR}{7}}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575337/exam_pipeline/6d8fb766_q2_8.png",
+          "altText": "circuit diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q2_8}}"
+        }
+      ]
+    },
+    {
+      "questionText": "A double convex lens made of glass of refractive index $1.5$ and radii of curvature of the curved surfaces $20$ cm each is immersed in a liquid of refractive index $n_L$. The correct plot showing the variation of the power, in the units of diopter $(D)$, as a function of $n_L$ is:",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575323/exam_pipeline/6d8fb766_q4_3.png",
+          "altText": "A graph with four subplots labeled A, B, C, and D, each showing a different plot of power (D) versus $n_L$.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q4_3}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Consider a hydrogen atom with $v_k$, $r_k$, and $K_k$ denoting the velocity, orbital radius and kinetic energy of the electron in the $k^{th}$ orbit, respectively. The electron undergoes a transition from the $n^{th}$ orbit, emitting radiation corresponding to the Lyman series. Considering $h$ to be the Planck's constant and $\\epsilon_0$ the permittivity of the free space, the correct statement(s) is/are:",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "Magnitude of change in kinetic energy of electron can be expressed as $\\frac{h}{4\\pi} \\left|\\frac{n v_n}{r_n} - \\frac{v_1}{r_1}\\right|$.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Magnitude of change in de Broglie wavelength of the electron can be expressed as $\\frac{e^2}{4\\epsilon_0} \\left|\\frac{1}{K_1} - \\frac{1}{K_n}\\right|$.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "Frequency of the radiation emitted can be expressed as $\\frac{e^2}{8\\pi \\epsilon_0 h} \\left(\\frac{1}{r_1} - \\frac{1}{r_n}\\right).",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Magnitude of change in total energy of the electron can be expressed as $\\frac{h}{2\\pi} \\left|\\frac{v_1}{r_1} - \\frac{n v_n}{r_n}\\right|$.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A particle is thrown with a speed $v$ from a point $O$ at an angle $\\theta$ with the horizontal plane such that it passes through the point $P$ at a height of $1$ m and horizontal distance of $5$ m from $O$, as shown in the figure. If acceleration due to gravity is $g \\, \\text{ms}^{-2}$, then the correct statement(s) is/are:",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "If $\\theta = 45^{\\circ}$, then $v = \\frac{5\\sqrt{g}}{2} \\, \\text{ms}^{-1}$.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "If $\\theta = 45^{\\circ}$, the particle reaches its maximum height before it reaches $P$.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "If $\\theta = 30^{\\circ}$, the particle reaches its maximum height after reaching $P$.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "If $\\theta = \\tan^{-1}\\left(\\frac{1}{5}\\right)$, then $v = 125\\sqrt{g} \\, \\text{ms}^{-1}$.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575343/exam_pipeline/6d8fb766_q6_13.png",
+          "altText": "Diagram of a particle trajectory",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q6_13}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575344/exam_pipeline/6d8fb766_q7_14.png",
+          "altText": "Graph of a quasi-static cycle",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q7_14}}"
+        }
+      ]
+    },
+    {
+      "questionText": "A quasi-static cycle of a monoatomic ideal gas contains an isothermal process $(ab)$, followed by an isochoric process $(bc)$ and an adiabatic process $(ca)$ as shown in the figure. The volumes of the gas are $V_{1}$ and $V_{2}$ at $a$ and $b$, respectively. If the cycle has heat input $Q_{\\text{in}}$ and output $Q_{\\text{out}}$, then the efficiency of the cycle is defined as $\\eta = \\frac{Q_{\\text{in}}-Q_{\\text{out}}}{Q_{\\text{in}}}$. The correct statement(s) is/are: [Given: $\\ln 2 \\approx 0.7$]",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "If $V_{2}/V_{1} = 8$, the heat released in the process $bc$ is smaller than the heat absorbed in the process $ab$.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "For a given value of $V_{2}/V_{1}$, $\\eta$ does not depend on the temperature of the isothermal process.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "If $V_{2}/V_{1} = 8$, then the temperature of the gas at $a$ is $4$ times the temperature of the gas at $c$.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "If $V_{2}/V_{1} = 8$, then the pressure of the gas at $a$ is $4$ times the pressure of the gas at $b$.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,B,C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The electric field associated with an electromagnetic wave travelling in vacuum is given by $E_0 \\sin(3y + 4z + \\omega t)\\hat{i}$, where $\\omega$ is the angular frequency. All quantities are in SI units. The correct statement(s) about this wave is/are:",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The wave is travelling in $-\\frac{1}{5}(3\\hat{j} + 4\\hat{k})$ direction.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The magnitude of the wave vector is $0.5$ $m^{-1}$.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The value of $\\omega$ is $1.5 \\times 10^9$ $rad$ $s^{-1}$.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The magnetic field associated with this wave is given by $\\frac{E_0}{c} \\sin(3y + 4z + \\omega t)(4\\hat{j}-3\\hat{k})$.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575346/exam_pipeline/6d8fb766_q9_15.png",
+          "altText": "A diagram of a tank with two immiscible liquids and a thin rod.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q9_15}}"
+        }
+      ]
+    },
+    {
+      "questionText": "A tank contains two immiscible liquids of densities $6\\rho$ and $2\\rho$. The higher density liquid is filled up to a height $L/2$ from the bottom. A thin rod of density $\\rho$ and length $L$ is fully immersed and hinged at the bottom so that it can oscillate freely, as shown in the figure. If the rod is slightly disturbed from its equilibrium, the time period of small oscillations is $\\frac{2\\pi}{n} \\sqrt{\\frac{L}{g}}$, where $g$ is the acceleration due to gravity. The value of $n$ is:",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [],
+      "answer": {
+        "key": "1.73",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "As shown in the figure, five Carnot engines, each with efficiency $\\eta$ and same number of cycles per unit time, are operating between six heat reservoirs. The amount of heat released per cycle by one engine is completely absorbed by the next engine. Consider $Q_0$ to be the amount of heat absorbed per cycle by the first engine and $W$ as the amount of total work done by all the engines per cycle, then the net efficiency of the system is found to be $\\eta_{\\text{net}} = \\frac{W}{Q_0} = \\frac{211}{243}$. The value of $\\eta$ is:",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [],
+      "answer": {
+        "key": "0.33",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575347/exam_pipeline/6d8fb766_q10_16.png",
+          "altText": "Carnot engine diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q10_16}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575348/exam_pipeline/6d8fb766_q11_17.png",
+          "altText": "Insulated container diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q11_17}}"
+        }
+      ]
+    },
+    {
+      "questionText": "As shown in the figure, an insulated container is fitted with a thermally conducting but immovable partition ($P_1$) and a freely movable but thermally insulated piston ($P_2$). The partition $P_1$ with thermal conductivity $K$, cross sectional area $A$ and width $x$ divides the container into two sections, $S_1$ and $S_2$, each containing one mole of a monoatomic gas. The piston $P_2$ moves freely such that the gas in $S_2$ is always at the atmospheric pressure. Initially, the difference between the temperatures of $S_1$ and $S_2$ is $\\Delta T_0$. The time it takes for the temperature difference to become $\\frac{\\Delta T_0}{2}$ is $n \\frac{xR}{KA}$, where $R$ is the universal gas constant. The value of $n$ is: [Given: $\\ln 2 \\approx 0.7$]",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [],
+      "answer": {
+        "key": "0.66",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A hollow, right circular cone of base radius $R$ and height $h$, with its tip at the origin is rotating about the $Z$-axis with an angular velocity $\\omega$, as shown in the figure. The cone carries a total charge $Q$ uniformly distributed on its curved surface. The magnitude of magnetic field at a point $(0,0,z)$, where $z \\gg R$ and $z \\gg h$, is $\\frac{n \\mu_0 Q R^2 \\omega}{4 \\pi z^3}$. The value of $n$ is:",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [],
+      "answer": {
+        "key": "0.50",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575350/exam_pipeline/6d8fb766_q12_18.png",
+          "altText": "diagram of a hollow cone rotating about the Z-axis",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q12_18}}"
+        }
+      ]
+    },
+    {
+      "questionText": "List-I shows four configurations made of straight and semi-circular narrow tubes containing air. A sound wave of wavelength $\\lambda=0.29$ m enters these structures at the point $S$ and a sound detector is placed at $D$. Between the points $S$ and $D$, the sound travels only through the tubes. List-II contains the possible smallest values of $l$ (refer to the figures) for which the detector $D$ records maximum amplitude. Ignore effects of sharp corners. [Given $\\cos(15^\\circ) = 0.97$] Choose the option that best describes the match between the entries in List-I to those in List-II .",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P→4, Q→3, R→5, S→1",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P→4, Q→3, R→1, S→5",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P→3, Q→4, R→1, S→2",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P→3, Q→4, R→5, S→2",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575334/exam_pipeline/6d8fb766_q13_6.png",
+          "altText": "Configurations made of straight and semi-circular narrow tubes containing air",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q13_6}}"
+        }
+      ]
+    },
+    {
+      "questionText": "In the List-I, four optical effects are mentioned. The physical phenomena of light which are essential to describe these optical effects are given in List-II. Choose the option which describes the correct match between the entries in List-I to those in List-II. \n\nList-I \n(P) Colorful sky in north polar region (Aurora Borealis) \n(Q) Partially polarized sun light \n(R) Rainbow \n(S) Dark and bright fringes \n\nList-II \n(1) Dispersion and reflection \n(2) Total internal reflection \n(3) Diffraction \n(4) Scattering of light by molecules in the atmosphere \n(5) Emission of radiation from oxygen and nitrogen atoms excited by charged particles",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P→5, Q→4, R→1, S→3",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P→4, Q→2, R→1, S→3",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P→4, Q→1, R→2, S→3",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P→5, Q→4, R→1, S→2",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "List-I contains four conducting loops lying in the $XY$ plane, as shown in the figures. The loops are rotating about $Z$ axis passing through the point $O$ with time period $T$ in clockwise direction. The region $x > 0$ contains a uniform magnetic field $B$ in the $+z$ direction. List-II contains the qualitative variation of the induced current $i(t)$ for each of these loops. Choose the option which describes the correct match between the entries in List-I to those in List-II.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P $\\to$ 5, Q $\\to$ 4, R $\\to$ 1, S $\\to$ 3",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P $\\to$ 3, Q $\\to$ 2, R $\\to$ 5, S $\\to$ 4",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P $\\to$ 3, Q $\\to$ 2, R $\\to$ 1, S $\\to$ 4",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P $\\to$ 5, Q $\\to$ 1, R $\\to$ 2, S $\\to$ 3",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575354/exam_pipeline/6d8fb766_q15_19.png",
+          "altText": "A diagram showing four conducting loops (P, Q, R, S) and five graphs (1, 2, 3, 4, 5) representing the qualitative variation of induced current $i(t)$.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q15_19}}"
+        }
+      ]
+    },
+    {
+      "questionText": "List-I shows four planar structures made of uniform solid rods each of mass $m$ and length $l$. In the List-II the possible moment of inertia of these structures about an axis $OCO'$, which lies in the plane of the structures, are given. Choose the option that describes the correct match between the entries in List-I to those in List-II.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P→5, Q→1, R→4, S→2",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P→1, Q→3, R→4, S→2",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P→5, Q→3, R→2, S→1",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P→5, Q→4, R→2, S→1",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575358/exam_pipeline/6d8fb766_q16_20.png",
+          "altText": "List-I and List-II for the moment of inertia question",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q16_20}}"
+        }
+      ]
+    },
+    {
+      "questionText": "An ideal gas $(0.5 \\, \\text{mol})$, initially at $2$ bar pressure, is compressed at a constant temperature of $600 \\, \\text{K}$ in two steps: first, against a constant external pressure of $P$ bar $(2 < P < 8)$, and then against constant external pressure of $8$ bar. At each step, the compression is stopped only when the pressure of the gas becomes equal to the external pressure. The total work done on the gas in these steps is $W$. Considering all possible values of $P$ $(2 < P < 8)$ and taking the gas constant as $R$ (in $\\text{J} \\, \\text{K}^{-1} \\, \\text{mol}^{-1}$), the minimum value of $|W|$ (in $\\text{J}$) is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$207R$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$600R$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$630R$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$900R$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "For a reversible reaction $\\mathbf{R} \\rightleftharpoons \\mathbf{P}$, at constant temperature, both the forward and the backward reactions are first order elementary reactions with rate constants $k_f$ and $k_b$, respectively. At time zero, the concentration of $\\mathbf{R}$ is $\\left[\\mathbf{R}\\right]_0$ and the concentration of $\\mathbf{P}$ is zero. At any given time, $\\left[\\mathbf{R}\\right]$ and $\\left[\\mathbf{P}\\right]$ are the concentrations of $\\mathbf{R}$ and $\\mathbf{P}$, respectively. If $k_b = 4 k_f$, the correct graphical representation of the reaction concentrations of $\\mathbf{R}$ and $\\mathbf{P}$ is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575338/exam_pipeline/6d8fb766_q2_optA_9.png",
+            "altText": "Graph for option A",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optA_9}}"
+          }
+        },
+        {
+          "key": "B",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575339/exam_pipeline/6d8fb766_q2_optB_10.png",
+            "altText": "Graph for option B",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optB_10}}"
+          }
+        },
+        {
+          "key": "C",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575341/exam_pipeline/6d8fb766_q2_optC_11.png",
+            "altText": "Graph for option C",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optC_11}}"
+          }
+        },
+        {
+          "key": "D",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575342/exam_pipeline/6d8fb766_q2_optD_12.png",
+            "altText": "Graph for option D",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optD_12}}"
+          }
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The correct order of dipole moments for the given species is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$BF_3 = NH_4^+ < NF_3 < NH_3$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$BF_3 < NH_4^+ < NF_3 < NH_3$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$NH_4^+ < BF_3 < NH_3 < NF_3$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$BF_3 < NH_4^+ < NH_3 < NF_3$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780575325/exam_pipeline/6d8fb766_q4_4.png",
+          "altText": "chemical structures and reaction schemes",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q4_4}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Considering $LiBH_4$ reduces an ester group to the corresponding alcohol and does not reduce a carboxylic acid group, the correct statement about the major products $P$, $Q$, $R$ and $S$ is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$P$ & $Q$ are identical, and $R$ & $S$ are diastereomers.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$P$ & $Q$ are diastereomers, and $R$ & $S$ are identical.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$P$ & $Q$ are diastereomers, and $R$ & $S$ are diastereomers.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$P$ & $Q$ are identical, and $R$ & $S$ are identical.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The $2s$ and the $2p$ orbital energies of hydrogen atom are $E_{2s}(H)$ and $E_{2p}(H)$, respectively. The $2s$ and the $2p$ orbital energies of lithium atom are $E_{2s}(Li)$ and $E_{2p}(Li)$, respectively. The correct option(s) about the orbital energies is(are)",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$E_{2s}(Li) < E_{2p}(Li)$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$E_{2s}(H) = E_{2p}(H)$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$E_{2p}(H) < E_{2s}(Li)$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$E_{2s}(H) > E_{2s}(Li)$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,B,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    }
+  ]
+}

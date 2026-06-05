@@ -1,0 +1,991 @@
+{
+  "job_id": "ffe63cd6",
+  "pdf_hash": "1fb06af57534e9d7f649038c990da107b92644ba44731b030b6dccb196f6ba5d",
+  "page_count": 33,
+  "question_count": 31,
+  "is_scanned": true,
+  "elapsed_seconds": 184.92,
+  "questions": [
+    {
+      "questionText": "Consider the function $f:(0,\\infty) \\to (-\\infty, \\infty)$ given by $$f(x)=\\sqrt{x} \\log_{\\mathrm{e}}(x)-x+1.$$ Then which one of the following statements is TRUE?",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The derivative of the function $f$ is decreasing in the interval $(0,1)$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The function $f$ has a local maximum at some point $a \\in (0,\\infty)$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The function $f$ has a local minimum at some point $b \\in (0,\\infty)$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The function $f$ has NEITHER a point of local maximum NOR a point of local minimum in the interval $(0,\\infty)$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $P$ be the point on the parabola $y=x^2$ such that the slope of the tangent to the parabola at the point $P$ is 4. Let $Q$ be the point in the first quadrant lying on the circle $x^2+y^2=2$ such that the slope of the tangent to the circle at the point $Q$ is $-1$. Let $R$ be the point in the first quadrant lying on the ellipse $x^2 +4y^2 =8$ such that the slope of the tangent to the ellipse at the point $R$ is $-\\frac{1}{2}$. Then the radius of the circle passing through the points $P,Q$ and $R$ is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "\\sqrt{10}",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "\\sqrt{5}",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "\\sqrt{\\frac{5}{2}}",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "2\\sqrt{5}",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Which one of the following matrices can be obtained by performing elementary row transformations on the $3 \\times 3$ identity matrix?",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ 1 & 1 & 1 \\\\ 1 & 1 & 1 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ 2 & 3 & 4 \\\\ 1 & 2 & 1 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ 2 & 3 & 4 \\\\ 2 & 5 & 8 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$\\begin{bmatrix} 1 & 1 & 1 \\\\ -1 & 1 & 2 \\\\ 0 & 2 & 3 \\end{bmatrix}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629782/exam_pipeline/ffe63cd6_q3_0.png",
+          "altText": "matrices for question 3",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q3_0}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Considering only the principal values of the inverse trigonometric functions, the value of $\\cot^{-1}(\\cot(-11))+10 \\sin \\left(2 \\cos^{-1} \\left(\\frac{1}{\\sqrt{2}}\\right)\\right) + 10 \\sin\\left(2 \\tan^{-1} (2)\\right)$ is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$3\\pi + 7$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$7$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$4\\pi + 7$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$3\\pi - 5$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629783/exam_pipeline/ffe63cd6_q4_1.png",
+          "altText": "equation for question 4",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q4_1}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Suppose that Box I contains 6 red balls and 9 green balls, and Box II contains 8 red balls and 12 green balls. All the balls of Box I and Box II are mixed together and a ball is chosen at random from them. Let $E_{1}$ be the event that the ball chosen belonged to Box I and let $E_{2}$ be the event that the ball chosen belonged to Box II. Let $F_{1}$ be the event that the ball chosen is red and let $F_{2}$ be the event that the ball chosen is green. Then which of the following statements is (are) TRUE ?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The events $E_{1}$ and $F_{1}$ are independent",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The events $E_{2}$ and $F_{2}$ are dependent",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The conditional probability $P(F_{1} | E_{1})$ is equal to the conditional probability $P(F_{1} | E_{2})$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The conditional probability $P(F_{1} | E_{1})$ is greater than the conditional probability $P(F_{2} | E_{2})$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $P$ be the plane such that it contains the straight line $\\frac{x-1}{2} = \\frac{y-3}{3} = \\frac{z+2}{1}$ and is perpendicular to the plane $x + 2y + 3z = 4$. Let $P_1$ be the plane which passes through the point $(4,2,2)$ and is parallel to $P$. Then which of the following statements is (are) TRUE?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The equation of the plane $P$ is $7x-5y+z=-10$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The distance between the planes $P$ and $P_1$ is $30$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The distance of the plane $P$ from the origin is $2\\sqrt{3}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The acute angle between the plane $P$ and the plane $2x + 2y + z = 3$ is $\\cos^{-1}\\left(\\frac{1}{3\\sqrt{3}}\\right)$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $\\mathbb{R}$ denote the set of all real numbers. Let $f : \\mathbb{R} \\to \\mathbb{R}$ be an arbitrary function and let $g : \\mathbb{R} \\to \\mathbb{R}$ be the function defined by $$g(x) = xf(x), \\text{ for all } x \\in \\mathbb{R}.$$ Then which of the following statements is (are) TRUE?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The function $g$ is always continuous at $x = 0$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "If $f$ is continuous at $x = 0$, then $g$ is differentiable at $x = 0$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "If $g$ is differentiable at $x = 0$, then $f$ is continuous at $x = 0$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "If $g$ is differentiable at $x = 0$, then $\\lim_{x\\to0} f(x)$ exists",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Consider the matrix $M = \\begin{bmatrix} 2 & -1 \\\\ 1 & 0 \\end{bmatrix}$. Let $p,q,r,s,a,b,c$ and $d$ be integers such that $M^{26} = \\begin{bmatrix} p & q \\\\ r & s \\end{bmatrix}$ and $\\sum_{k=1}^{26} M^k = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix}$. Then which of the following statements is (are) TRUE?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "There exists a $2 \\times 2$ invertible matrix $N$ with real entries such that $MN = N \\begin{bmatrix} 1 & 1 \\\\ 0 & 1 \\end{bmatrix}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The value of $a$ is 378",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "For any two given integers $m$ and $n$, there exist unique integers $x$ and $y$ such that $px + qy = m$ and $rx + sy = n$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "For each positive real number $t$, the system of linear equations $(a+t)x + by = 1$ and $cx + (d+t)y = -1$ has a unique solution",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $S = \\{1, 2, 3, ..., 10\\}$. Consider the set $X = \\{R: R$ is an equivalence relation on the set $S$ such that $R$ has exactly 42 elements$\\}$. Then the number of elements in $X$ is _______.",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [],
+      "answer": {
+        "key": "2520.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Consider the function $f : \\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right) \\to (-\\infty, \\infty)$ defined by $$f(x) = (|x| + |x - 1|) \\sin x + [x \\sin x],$$ where $[x \\sin x]$ is the greatest integer less than or equal to $x \\sin x$. Let $\\alpha$ be the total number of points in the interval $\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$ at which $f$ is NOT continuous, and let $\\beta$ be the total number of points in the interval $\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$ at which $f$ is NOT differentiable. Then the value of $\\alpha + \\beta$ is _______.",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [],
+      "answer": {
+        "key": "5.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The number of ways to distribute 10 identical red pens and 14 identical blue pens among four persons such that each person gets 6 pens, is _______.",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [],
+      "answer": {
+        "key": "206.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let $$\\alpha = \\left(1 - 2 \\cos \\left(\\frac{\\pi}{11}\\right)\\right) \\left(1 - 2 \\cos \\left(\\frac{3\\pi}{11}\\right)\\right) \\left(1 - 2 \\cos \\left(\\frac{9\\pi}{11}\\right)\\right) \\left(1 - 2 \\cos \\left(\\frac{27\\pi}{11}\\right)\\right) \\left(1 - 2 \\cos \\left(\\frac{81\\pi}{11}\\right)\\right).$$ Then the value of $5 - \\alpha^2$ is _______.",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [],
+      "answer": {
+        "key": "4.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A hollow, right circular cone of base radius $R$ and height $h$, with its tip at the origin is rotating about the $Z$-axis with an angular velocity $\\omega$, as shown in the figure. The cone carries a total charge $Q$ uniformly distributed on its curved surface. The magnitude of magnetic field at a point $(0,0,z)$, where $z \\gg R$ and $z \\gg h$, is $\\frac{n \\mu_0 Q R^2 \\omega}{4 \\pi z^3}$. The value of $n$ is:",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [],
+      "answer": {
+        "key": "0.50",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629786/exam_pipeline/ffe63cd6_q12_3.png",
+          "altText": "A diagram of a hollow, right circular cone rotating about the Z-axis.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q12_3}}"
+        }
+      ]
+    },
+    {
+      "questionText": "List-I shows four configurations made of straight and semi-circular narrow tubes containing air. A sound wave of wavelength $\\lambda=0.29$ m enters these structures at the point $S$ and a sound detector is placed at $D$. Between the points $S$ and $D$, the sound travels only through the tubes. List-II contains the possible smallest values of $l$ (refer to the figures) for which the detector $D$ records maximum amplitude. Ignore effects of sharp corners. [Given $\\cos(15^\\circ) = 0.97$] Choose the option that best describes the match between the entries in List-I to those in List-II.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P→4, Q→3, R→5, S→1",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P→4, Q→3, R→1, S→5",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P→3, Q→4, R→1, S→2",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P→3, Q→4, R→5, S→2",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629790/exam_pipeline/ffe63cd6_q13_4.png",
+          "altText": "diagram showing four configurations of straight and semi-circular narrow tubes containing air and a sound wave entering these structures",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q13_4}}"
+        }
+      ]
+    },
+    {
+      "questionText": "In the List-I, four optical effects are mentioned. The physical phenomena of light which are essential to describe these optical effects are given in List-II. Choose the option which describes the correct match between the entries in List-I to those in List-II. \n\nList-I \n(P) Colorful sky in north polar region (Aurora Borealis)\n(Q) Partially polarized sun light\n(R) Rainbow\n(S) Dark and bright fringes \n\nList-II \n(1) Dispersion and reflection\n(2) Total internal reflection\n(3) Diffraction\n(4) Scattering of light by molecules in the atmosphere\n(5) Emission of radiation from oxygen and nitrogen atoms excited by charged particles",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P→5, Q→4, R→1, S→3",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P→4, Q→2, R→1, S→3",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P→4, Q→1, R→2, S→3",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P→5, Q→4, R→1, S→2",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "List-I contains four conducting loops lying in the $XY$ plane, as shown in the figures. The loops are rotating about $Z$ axis passing through the point $O$ with time period $T$ in clockwise direction. The region $x > 0$ contains a uniform magnetic field $B$ in the $+z$ direction. List-II contains the qualitative variation of the induced current $i(t)$ for each of these loops. Choose the option which describes the correct match between the entries in List-I to those in List-II.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P $\\to$ 5, Q $\\to$ 4, R $\\to$ 1, S $\\to$ 3",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P $\\to$ 3, Q $\\to$ 2, R $\\to$ 5, S $\\to$ 4",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P $\\to$ 3, Q $\\to$ 2, R $\\to$ 1, S $\\to$ 4",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P $\\to$ 5, Q $\\to$ 1, R $\\to$ 2, S $\\to$ 3",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629793/exam_pipeline/ffe63cd6_q15_5.png",
+          "altText": "List-I and List-II figures for the question",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q15_5}}"
+        }
+      ]
+    },
+    {
+      "questionText": "List-I shows four planar structures made of uniform solid rods each of mass $m$ and length $l$. In the List-II the possible moment of inertia of these structures about an axis $OCO'$, which lies in the plane of the structures, are given. Choose the option that describes the correct match between the entries in List-I to those in List-II.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P → 5, Q → 1, R → 4, S → 2",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P → 1, Q → 3, R → 4, S → 2",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P → 5, Q → 3, R → 2, S → 1",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P → 5, Q → 4, R → 2, S → 1",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629802/exam_pipeline/ffe63cd6_q16_7.png",
+          "altText": "List-I and List-II for question 16",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q16_7}}"
+        }
+      ]
+    },
+    {
+      "questionText": "An ideal gas ($0.5$ mol), initially at $2$ bar pressure, is compressed at a constant temperature of $600$ K in two steps: first, against a constant external pressure of $P$ bar ($2 < P < 8$), and then against constant external pressure of $8$ bar. At each step, the compression is stopped only when the pressure of the gas becomes equal to the external pressure. The total work done on the gas in these steps is $W$. Considering all possible values of $P$ ($2 < P < 8$) and taking the gas constant as $R$ (in J K$^{-1}$ mol$^{-1}$), the minimum value of $|W|$ (in J) is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "207R",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "600R",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "630R",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "900R",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "For a reversible reaction $\\mathbf{R} \\rightleftharpoons \\mathbf{P}$, at constant temperature, both the forward and the backward reactions are first order elementary reactions with rate constants $k_f$ and $k_b$, respectively. At time zero, the concentration of $\\mathbf{R}$ is $\\left[\\mathbf{R}\\right]_0$ and the concentration of $\\mathbf{P}$ is zero. At any given time, $\\left[\\mathbf{R}\\right]$ and $\\left[\\mathbf{P}\\right]$ are the concentrations of $\\mathbf{R}$ and $\\mathbf{P}$, respectively. If $k_b = 4k_f$, the correct graphical representation of the reaction concentrations of $\\mathbf{R}$ and $\\mathbf{P}$, respectively.",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629807/exam_pipeline/ffe63cd6_q2_optA_9.png",
+            "altText": "graph",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optA_9}}"
+          }
+        },
+        {
+          "key": "B",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629807/exam_pipeline/ffe63cd6_q2_optB_10.png",
+            "altText": "graph",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optB_10}}"
+          }
+        },
+        {
+          "key": "C",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629808/exam_pipeline/ffe63cd6_q2_optC_11.png",
+            "altText": "graph",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optC_11}}"
+          }
+        },
+        {
+          "key": "D",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629809/exam_pipeline/ffe63cd6_q2_optD_12.png",
+            "altText": "graph",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q2_optD_12}}"
+          }
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The correct order of dipole moments for the given species is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "BF$_3$ = NH$_4^+ < $ NF$_3 < $ NH$_3$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "BF$_3 < $ NH$_4^+ < $ NF$_3 < $ NH$_3$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "NH$_4^+ < $ BF$_3 < $ NH$_3 < $ NF$_3$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "BF$_3 < $ NH$_4^+ < $ NH$_3 < $ NF$_3$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Considering LiBH$_4$ reduces an ester group to the corresponding alcohol and does not reduce a carboxylic acid group, the correct statement about the major products P, Q, R and S is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P & Q are identical, and R & S are diastereomers.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P & Q are diastereomers, and R & S are identical.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P & Q are diastereomers, and R & S are diastereomers.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P & Q are identical, and R & S are identical.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629785/exam_pipeline/ffe63cd6_q4_2.png",
+          "altText": "Reaction diagram for Q. 4",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q4_2}}"
+        }
+      ]
+    },
+    {
+      "questionText": "The 2s and the 2p orbital energies of hydrogen atom are $E_{2s}(H)$ and $E_{2p}(H)$, respectively. The 2s and the 2p orbital energies of lithium atom are $E_{2s}(Li)$ and $E_{2p}(Li)$, respectively. The correct option(s) about the orbital energies is(are)",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$E_{2s}(Li) < E_{2p}(Li)$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$E_{2s}(H) = E_{2p}(H)$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$E_{2p}(H) < E_{2s}(Li)$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$E_{2s}(H) > E_{2s}(Li)$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,B,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "In the following reaction sequence, $Q$, $R$, $S$ and $T$ are the major products. The correct statement(s) about $Q$, $R$, $S$ and $T$ is(are)",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "S on warming with ammoniacal $AgNO_3$ results in the formation of silver mirror.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Q on treatment with $Cl_2$(excess)/UV gives gammexane.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "T is a heterocyclic compound.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "R on acid catalyzed intramolecular cyclization followed by treatment with $Zn-Hg/HCl$ gives 9,10-dihydroxyanthracene.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,B,C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629811/exam_pipeline/ffe63cd6_q8_13.png",
+          "altText": "Reaction sequence diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q8_13}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Two cylinders, both fitted with frictionless pistons, are filled with mixtures of He and Ar gases. In the first cylinder, the masses of He and Ar are $m_1$ and $m_2$, respectively. In the second cylinder, the masses of He and Ar are $m_2$ and $m_1$, respectively. The molar mass of Ar is 10 times the molar mass of He. The external pressure applied by the piston on the first cylinder needs to be 5 times that on the second cylinder so that the volume of the gas mixtures in both the cylinders are equal at the same temperature. Assuming He and Ar behave like ideal gases, the value of $(m_1/m_2)$ is ____.",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [],
+      "answer": {
+        "key": "9.80",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The total number of all possible isomers for the square planar complex with formula $K[M(NCS)(NO_2)(gly)]$ is ____. $(M = $ metal ion and $gly = NH_2CH_2COO^-)$",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "8.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The sum of total number of carbonyl groups ($>C=O$) present in the major products $X$ and $Y$ in the following reactions is ____.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "4.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Treatment of buta-1,3-diyne with $NaNH_2$ (2 equivalents), followed by reaction with excess of $trans-CH_3-CH=CH-CH_2-Br$ gives $X$ as the major product. The maximum number of carbon atoms that are collinear (in a straight line) in $X$ is ____.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "6.00",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "List-I contains various physical/chemical processes, and List-II contains combinations of changes in enthalpy $(\\Delta H)$ and entropy $(\\Delta S)$. Match each entry in List-I to the appropriate entry in List-II, and choose the correct option.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P → 2; Q → 3; R → 5; S → 4",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P → 4; Q → 3; R → 5; S → 1",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P → 2; Q → 5; R → 1; S → 4",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P → 2; Q → 5; R → 1; S → 3",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Consider the following species: $\\mathrm{SOCl_2, XeOF_4, ClF_3, ClF_5, XeF_5^+, SO_3^{2-}, XeF_3^+, SF_4}$ List-I contains different molecular shapes and List-II contains total number of species with the same molecular shapes from the given species. Match each entry in List-I with the appropriate entry in List-II and choose the correct option.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P → 1; Q → 2; R → 5; S → 3",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P → 5; Q → 4; R → 2; S → 3",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P → 3; Q → 2; R → 1; S → 4",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P → 1; Q → 3; R → 5; S → 4",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The List-II contains products obtained from the reaction of compounds in List-I with $O_3/Zn-H_2O$ followed by cyclization (via more stable enolate) in the presence of aqueous $NaOH$. Match each entry in List-I with appropriate entry in List-II and choose the correct option.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P $\\rightarrow$ 2; Q $\\rightarrow$ 4; R $\\rightarrow$ 1; S $\\rightarrow$ 3",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P $\\rightarrow$ 3; Q $\\rightarrow$ 4; R $\\rightarrow$ 5; S $\\rightarrow$ 2",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P $\\rightarrow$ 2; Q $\\rightarrow$ 1; R $\\rightarrow$ 5; S $\\rightarrow$ 3",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P $\\rightarrow$ 3; Q $\\rightarrow$ 5; R $\\rightarrow$ 4; S $\\rightarrow$ 2",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629797/exam_pipeline/ffe63cd6_q15_6.png",
+          "altText": "List-I and List-II structures for matching",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q15_6}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Match the major products obtained in the reactions given in List-I with the corresponding structures in List-II and choose the correct option.",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "P $\\rightarrow$ 2; Q $\\rightarrow$ 1; R $\\rightarrow$ 5; S $\\rightarrow$ 4",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P $\\rightarrow$ 1; Q $\\rightarrow$ 2; R $\\rightarrow$ 4; S $\\rightarrow$ 5",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P $\\rightarrow$ 1; Q $\\rightarrow$ 2; R $\\rightarrow$ 3; S $\\rightarrow$ 4",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P $\\rightarrow$ 2; Q $\\rightarrow$ 1; R $\\rightarrow$ 3; S $\\rightarrow$ 5",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780629806/exam_pipeline/ffe63cd6_q16_8.png",
+          "altText": "chemical structures and reaction schemes for List-I and List-II",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q16_8}}"
+        }
+      ]
+    }
+  ]
+}

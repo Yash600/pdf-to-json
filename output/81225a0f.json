@@ -1,0 +1,2648 @@
+{
+  "job_id": "81225a0f",
+  "pdf_hash": "2faddca9fff5ac59555345f493adb226189172a59bfe15e71f8b1273e57f49cb",
+  "page_count": 31,
+  "question_count": 72,
+  "is_scanned": false,
+  "elapsed_seconds": 330.2,
+  "questions": [
+    {
+      "questionText": "For a simple pendulum, having time period $T$, the variation of kinetic energy (KE) with time $t$ is represented by:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635654/exam_pipeline/81225a0f_q1_0.png",
+          "altText": "graphs for kinetic energy variation",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q1_0}}"
+        }
+      ]
+    },
+    {
+      "questionText": "A room heater is rated 400 W, 220 V. If the supply voltage drops to 200 V, what will be the power consumed (approximately)?",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "400 W",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "121 W",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "331 W",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "200 W",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The angular speed of flywheel is increased from $600$ rpm to $1200$ rpm in $10$ s. The number of revolutions completed by the flywheel during this time is:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "600",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "300",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "900",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "150",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The sum of kinetic energy and potential energy of a simple pendulum bob is $0.02$ joule. The speed of a simple pendulum bob at equilibrium position is approximately: (Consider mass of the bob $= 20$ g)",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$2.0$ m/s",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$0.2$ m/s",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$14.1$ m/s",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$1.41$ m/s",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A 100 turn closely wound circular coil of radius 5 cm has a magnetic field of $3.14 \\times 10^{-3}$ T at its centre. The current flowing through the coil, and the magnitude of the magnetic moment of this coil are, respectively: (Take, $\\mu_0 = 4\\pi \\times 10^{-7}$ T m/A)",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "2.5 A, 20 Am$^2$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "2 A, 4 Am$^2$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "2.5 A, 2 Am$^2$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "2 A, 10 Am$^2$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A submarine is designed to withstand an absolute pressure of 100 atm. How deep can it go below the water surface? (Consider the density of water $= 1000$ kg m$^{-3}$, $1$ atm $= 1 \\times 10^5$ Pa and gravitational acceleration $g = 10$ m/s$^2$)",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "9900 m",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "990 m",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "9000 m",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "99 m",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Match the list:",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A.",
+          "optionType": "text",
+          "text": "E = hv",
+          "imageDetails": null
+        },
+        {
+          "key": "B.",
+          "optionType": "text",
+          "text": "Diffraction and Interference",
+          "imageDetails": null
+        },
+        {
+          "key": "C.",
+          "optionType": "text",
+          "text": "$\\lambda = \\frac{h}{p}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D.",
+          "optionType": "text",
+          "text": "Compton effect",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "2",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635655/exam_pipeline/81225a0f_q7_tbl_rNonecNone_1.png",
+          "altText": "A table with Column-I and Column-II for matching",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q7_tbl_rNonecNone_1}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Match the list:",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "a-iii, b-ii, c-i, d-iv",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "a-ii, b-iii, c-iv, d-i",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "a-i, b-iv, c-iii, d-ii",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "a-iv, b-i, c-ii, d-iii",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "2",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635656/exam_pipeline/81225a0f_q8_tbl_rNonecNone_2.png",
+          "altText": "A table with Column-I and Column-II for matching",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q8_tbl_rNonecNone_2}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Five capacitors of capacitances $C_1 = C_2 = C_3 = C_4 = 10 \\, \\mu F$ and $C_5 = 2.5 \\, \\mu F$ are connected as shown, along with a battery of $50 \\, V$. The equivalent capacitance and the charges on each capacitor respectively are:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "1)",
+          "optionType": "text",
+          "text": "$4 \\, \\mu F, 250 \\, \\mu C$ on $C_1$ to $C_4$ and $125 \\, \\mu C$ on $C_5$",
+          "imageDetails": null
+        },
+        {
+          "key": "2)",
+          "optionType": "text",
+          "text": "$5 \\, \\mu F, 250 \\, \\mu C$ on all capacitors",
+          "imageDetails": null
+        },
+        {
+          "key": "3)",
+          "optionType": "text",
+          "text": "$5 \\, \\mu F, 125 \\, \\mu C$ on $C_1$ to $C_4$ and $25 \\, \\mu C$ on $C_5$",
+          "imageDetails": null
+        },
+        {
+          "key": "4)",
+          "optionType": "text",
+          "text": "$5 \\, \\mu F, 125 \\, \\mu C$ on all capacitors",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "4",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The amount of work done to raise a mass $m$ from the surface of the Earth to a height equal to the radius of the Earth $R$ will be:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$mg \\frac{R}{2}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$mgR$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$mg \\frac{R}{4}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$2mgR$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "1",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "When a ruler falls vertically, 5 different persons catch it with difference reactions times. ($g = 9.8$ $ms^{-2}$) A. Persons $A$ has reaction time of 0.20 s. B. Persons $B$ has reaction time of 0.22 s. C. Persons $C$ has reaction time of 0.18 s. D. Persons $D$ has reaction time of 0.19 s. E. Persons $E$ has reaction time of 0.21 s. What is the correct order of the distance travelled by the ruler for each person?",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$B>E>A>C>D$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$C>D>A>E>B$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$C>D>A>B>E$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$B>E>A>D>C$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "4",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "C. The interior of a charged conductor can have no excess charge in the static situation. D. At the surface of a charged conductor, the electrostatic field must be normal to the surface at every point. E. The electrostatic potential is zero everywhere inside a charged conductor.",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "A, C and D only",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "A, C and E only",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "C, D and E only",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "A, B and D only",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "In interference and diffraction, the light energy is redistributed. If it reduces in one region, producing a dark fringe, it increases in another region, producing a bright fringe. A. As there is no gain or loss of energy, these phenomena are consistent with the principle of conservation of energy. B. Diffraction and interference are characteristics exhibited only by light waves.",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "A is false, but B is true",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "A is true, but B is false",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "A is true and B is also true",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Both A and B are false",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "2",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A resistor is connected to a battery of $12 \\, \\text{V}$ emf and internal resistance $2 \\, \\Omega$. If the current in the circuit is $0.6 \\, \\text{A}$, the terminal voltage of the battery is:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "12 V",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "1.2 V",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "10 V",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "10.8 V",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "4",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "In a metre bridge experiment (see figure), the positions of the cell, E, and galvanometer, G, are interchanged. We shall observe in the galvanometer:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "Only the right-sided deflection",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Only the left-sided deflection",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "There will be no deflection irrespective of the position of the jockey",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Both right-sided and left-sided deflection and balance point, no deflection",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Savitha, a XI standard student, while conducting an experiment to determine the effective length of a simple pendulum L, notes down the data of time taken to complete 30 oscillations as 60 s and hence calculates the length of the simple pendulum as: (Taken $\\pi^2 = 9.8$, and $g = 9.8 \\, \\text{m/s}^2$)",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "0.75 m",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "1 m",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "1.5 m",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "2 m",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "2",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Which of the following statements are correct? A. Inside a conductor, the electrostatic field is zero. B. Electric field at the surface of a charged conductor does not depend on its surface charge density. C. The interior of a charged conductor can have no excess charge in the static situation. D. At the surface of a charged conductor, the electrostatic field must be normal to the surface at every point. E. The electrostatic potential is zero everywhere inside a charged conductor.",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "A, C and D only",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "A, C and E only",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "1",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Two statements are given below: A. When the forward bias voltage across a p-n junction diode increases above a certain threshold voltage, the diode current increases significantly. B. This current is called reverse saturation current.",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "Both Statements A and B are true",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Both Statements A and B are false",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "Statements A is true, but Statement B is false",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Statements A is false, but Statement B is true",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "In a concave lens, a ray of light emanating from the object parallel to the principal axis of the lens, after refraction:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "passes through the second principal focus.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "appears to diverge from the first principal focus.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "passes through 2F, which is the radius of curvature of the lens.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "emerges parallel to the principal axis.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "An unknown nucleus has a nuclear density of $2.29 \\times 10^{17} kg/m^3$ and mass of $19.926 \\times 10^{-27}$ kg. Its mass number A is approximately : $(Take R_0 = 1.2 \\times 10^{-15} m, 4\\pi = 12.56)$",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "16",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "20",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "12",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "19",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A galvanometer of resistance $100 \\, \\Omega$ gives full scale deflection for a current of $1 \\, \\text{mA}$. It is converted into an ammeter of range $0 - 10 \\, \\text{A}$. The shunt required is :",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "0.001 $\\, \\Omega$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "0.10 $\\, \\Omega$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "1.0 $\\, \\Omega$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "0.01 $\\, \\Omega$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A thin wire of length $L'$ and linear mass density $m'$ is bent into a circular ring (in $x-y$ plane with centre $C'$ as shown in figure. The moment of inertia of the ring about an axis $y y'$ will be:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$\\frac{3 m L^3}{8 \\pi}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$\\frac{3 m L^2}{8 \\pi^2}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$\\frac{3 m L^3}{8 \\pi^2}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$\\frac{3 m L^2}{8 \\pi}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "For a travelling harmonic wave $y(x, t) = 2.0 \\cos 2\\pi(10 t - 0.0080 x + 0.35)$, where $x$ and $y$ are in cm and $t$ in s. The phase difference between oscillatory motion of two points separated by a distance of 0.5 m is :",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "0.08 $\\pi$ rad",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "0.008 $\\pi$ rad",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "0.8 $\\pi$ rad",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "8 $\\pi$ rad",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A box of mass 15 kg is kept on the floor of a stationary trolley. The coefficient of static friction between the box and the trolley is 0.12. Keeping the box in stationary state over the trolley, the maximum acceleration with which the trolley can be moved horizontally in $ms^{-2}$ is: $(g = 10 m/s^2)$",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "1.8",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "1.2",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "1.5",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "2.1",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "In the circuit shown below, the voltage appearing across the diode $D$ will be of the form:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The following plots show variation of velocity $(v)$ with time $(t)$, of a ball thrown vertically upward, and falling back. Which of the following plots is/are correct?",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "In a vernier callipers, 20 VSD coincide with 16 MSD (each division of length 1 mm). The least count of the vernier callipers is :",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "0.2 cm",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "0.1 cm",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "0.02 cm",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "0.01 cm",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Each side of the metallic cube of mass 5.580 kg is measured to be 9.0 cm. Keeping the significant figures in view, the density of the material of the cube can be best expressed as $X \\times 10^3$ kg m$^{-3}$, where the value of $X$ is :",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "7.654",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "7.7",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "7.65",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "7.6",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A ray of monochromatic light is passing through an equilateral prism $(ABC)$ as shown in the figure. The refracted ray $(QR)$ is parallel to its base $(BC)$ and the angle of incidence $(i)$ is $50^{\\circ}$. Then the angle of deviation $(\\delta)$ is :",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$45^{\\circ}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$55^{\\circ}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$35^{\\circ}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$40^{\\circ}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635662/exam_pipeline/81225a0f_q29_9.png",
+          "altText": "diagram of a circular ring",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q29_9}}"
+        }
+      ]
+    },
+    {
+      "questionText": "In the first excited state of hydrogen atom, the energy of its electron is $-3.4$ eV. The radial distance of the electron from the hydrogen nucleus in this case is approximately : (Take $1$ eV $= 1.6 \\times 10^{-19}$ J, $e = 1.6 \\times 10^{-19}$ C and $\\frac{1}{4\\pi\\epsilon_{0}} =9\\times10^{9}$ N $\\text{m}^{2}/\\text{C}^{2}$)",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$2.1 \\times 10^{-8}$ m",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$2.1 \\times 10^{-10}$ m",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$2.1 \\times 10^{-11}$ m",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$2.1 \\times 10^{-9}$ m",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A uniform metallic wire having resistance $4\\Omega$ is bent to form a square loop (ABCD) (See figure). A resistance of $2 \\Omega$ is connected between points $B$ and $D$ and a battery of $2$ V is connected across point A and C as shown in the figure. Now the value of current (I) is:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "4 A",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "4.5 A",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "8 A",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "2 A",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Calculate emf of the half cell given below. $Pt(s)|H_2(g, 2 atm)|HCl(aq, 0.02M)$ $E^\\circ_{H_2/H^+} =0V$ (Given: $\\frac{2.303RT}{F} =0.059, \\log 2 = 0.3010$)",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text_and_image",
+          "text": "-0.109 V",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635658/exam_pipeline/81225a0f_q32_optA_5.png",
+            "altText": "graph of voltage across diode D",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q32_optA_5}}"
+          }
+        },
+        {
+          "key": "B",
+          "optionType": "text_and_image",
+          "text": "0.109 V",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635659/exam_pipeline/81225a0f_q32_optB_6.png",
+            "altText": "graph of voltage across diode D",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q32_optB_6}}"
+          }
+        },
+        {
+          "key": "C",
+          "optionType": "text_and_image",
+          "text": "0.035 V",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635660/exam_pipeline/81225a0f_q32_optC_7.png",
+            "altText": "graph of voltage across diode D",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q32_optC_7}}"
+          }
+        },
+        {
+          "key": "D",
+          "optionType": "text_and_image",
+          "text": "-0.035 V",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635661/exam_pipeline/81225a0f_q32_optD_8.png",
+            "altText": "graph of voltage across diode D",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q32_optD_8}}"
+          }
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635657/exam_pipeline/81225a0f_q32_3.png",
+          "altText": "Circuit diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q32_3}}"
+        },
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635657/exam_pipeline/81225a0f_q32_4.png",
+          "altText": "circuit diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q32_4}}"
+        }
+      ]
+    },
+    {
+      "questionText": "At 298 K, a certain buffer solution contains equal concentrations of $X^-$ and $HX$, $K_b$ for $X^-$ is $10^{-10}$. What is the pH of this buffer solution?",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "10",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "4",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "2",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "6",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Consider the following reaction. $2A(g) + B(g) \\to 2D(g)$ $\\Delta U^\\circ =-10 kJ mol^{-1}$ and $\\Delta S^\\circ =-44 J K^{-1}$ at $298 K$. Identify the correct option with $\\Delta G^\\circ$ for the reaction and spontaneity of the reaction at $298 K$. [Given : $R = 8.31 J mol^{-1} K^{-1}$]",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "+0.63568 kJ mol^{-1}, non-spontaneous",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "-0.63568 kJ mol^{-1}, spontaneous",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "-1.635 kJ mol^{-1}, spontaneous",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "+1.635 kJ mol^{-1}, non-spontaneous",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The correct statement with regard to the secondary structure of DNA/RNA is.",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "DNA possesses a double strand helix structure and contains thymine as one of the four bases.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "DNA possesses a single strand helix structure and contains uracil as one of the four bases.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "RNA possesses a double strand helix structure and contains uracil as one of the four bases.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "RNA possesses a single strand helix structure and contains thymine as one of the four bases.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "1",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "In a test tube containing a salt, a few drops of dilute H$_{2}$SO$_{4}$ was added, which gave colourless vapours having the smell of vinegar. The vapours turned the blue litmus paper red. Identify the correct anion from the following.",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "Carbonate, CO$_{3}^{2-}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Sulphide, S$^{2-}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "Acetate, CH$_{3}$COO$^{-}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Sulphate, SO$_{4}^{2-}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "3",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Identify the correct statement about ClF$_{3}$ from the following options.",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "It has T-shaped geometry with three lone pairs on Cl atom.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "It has T-shaped geometry with two lone pairs on Cl atom.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "It has a trigonal pyramidal geometry with two lone pairs on Cl atom.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "It has a planar trigonal geometry with two lone pairs on Cl atom.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "2",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Match the List I with List II",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "a-i, b-iii, c-ii, d-iv",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "a-ii, b-iv, c-iii, d-i",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "a-iii, b-i, c-iv, d-ii",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "a-iii, b-i, c-ii, d-iv",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "3",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The number of chlorine atoms present in the organic product X and Y of the following reactions, respectively, are",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "3 and 3",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "6 and 6",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "6 and 3",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "3 and 6",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Identify the incorrect statement from the following.",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "Phosphorus, arsenic and antimony show catenation property",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P(C2H5)3 and As(C6H5)3 form dπ-dπ bond with transition metal",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "Nitrogen can form dπ-pπ bond with oxygen.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Nitrogen can form pπ-pπ multiple bonds with itself.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635662/exam_pipeline/81225a0f_q40_10.png",
+          "altText": "Four velocity-time plots for a ball thrown vertically upward and falling back",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q40_10}}"
+        }
+      ]
+    },
+    {
+      "questionText": "At a certain temperature, T(K), during a process, 500 J is absorbed by the system and work of 200J is done by the system. Then change in internal energy of the system is",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "700 J",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "400 J",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "300 J",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "500 J",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "3",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635664/exam_pipeline/81225a0f_q41_12.png",
+          "altText": "Graph of velocity vs time",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q41_12}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Compound P($C_8H_8O$) gives a red orange precipitate with 2, 4-DNP reagent and it does not reduced Fehling's reagent. on drastic oxidation with chromic acid, P gives an aromatic product Q that produces effervescence on treating with aq. $NaHCO_3$. Compounds P and Q, respectively are:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The correct IUPAC name of the following compound is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "3-ethyl-5-methylheptane",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "3-methyl-5-ethylheptane",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "2, 4-diethylhexane",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "3, 5-diethylhexane",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635663/exam_pipeline/81225a0f_q43_11.png",
+          "altText": "An equilateral prism $(ABC)$ with a ray of monochromatic light passing through it",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q43_11}}"
+        }
+      ]
+    },
+    {
+      "questionText": "In the following reaction sequence, X and Z, respectively are:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "X = POCl$_3$, Z = $CH_3 - CH - CH_3$ $\\ \\ Br$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "X = POCl$_3$, Z = $CH_3CH_2CH_2-Br$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "X = H$_3PO_3$, Z = $CH_3 - CH - CH_3$ $\\ \\ Br$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "X = H$_3PO_3$, Z = $CH_3CH_2CH_2-Br$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "When $1 \\, \\text{dm}^3$ of $\\text{CO}_2$ gas is passed over hot coke, the volume of gaseous mixture after complete reaction at STP becomes $1.4 \\, \\text{dm}^3$. The composition of the gaseous mixture at STP is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "0.6 $\\, \\text{dm}^3$ of CO, 0.8 $\\, \\text{dm}^3$ of $\\text{CO}_2$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "0.8 $\\, \\text{dm}^3$ of CO, 0.8 $\\, \\text{dm}^3$ of $\\text{CO}_2$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "0.6 $\\, \\text{dm}^3$ of CO, 0.4 $\\, \\text{dm}^3$ of $\\text{CO}_2$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "0.8 $\\, \\text{dm}^3$ of CO, 0.6 $\\, \\text{dm}^3$ of $\\text{CO}_2$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635665/exam_pipeline/81225a0f_q45_13.png",
+          "altText": "Circuit diagram",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q45_13}}"
+        }
+      ]
+    },
+    {
+      "questionText": "The correct formal charges on oxygen atoms numbered 2, 1 and 3 respectively are",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "0, 0, 0",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "-1, 0, +1",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "+1, 0, -1",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "0, +1, -1",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Match List-I with List II :",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "a-iv, b-iii, c-ii, d-i",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "a-iv, b-iii, c-i, d-ii",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "a-i, b-ii, c-iii, d-iv",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "a-iv, b-ii, c-i, d-iii",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The correct order of increasing metallic character of Na, Be, P, Mg and Si is.",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "Be < Si < P < Mg < Na",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "P < Si < Na < Mg < Be",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "P < Si < Be < Mg < Na",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "P < Mg < Be < Si < Na",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The number of hydrogen atoms present in 5.4 g of urea is. (Given : Molar mass of urea : $60 \\, \\text{g} \\, \\text{mol}^{-1}$, $N_A : 6.022 \\times 10^{23} \\, \\text{particles} \\, \\text{mol}^{-1}$)",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$2.168 \\times 10^{22}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$2.168 \\times 10^{23}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$1.084 \\times 10^{22}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$1.084 \\times 10^{23}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "In a qualitative analysis, $\\text{Bi}^{3+}$ is detected by appearance of precipitate of $\\text{BiO(OH)}(s)$. Calculate pH when the following equilibrium exists at 298 K. $\\text{BiO(OH)}(s) \\rightleftharpoons \\text{BiO}^+(aq) + \\text{OH}^-(aq)$ $K = 4 \\times 10^{-10}$ (Given : $\\log 2 = 0.3010$)",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "4.699",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "5.286",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "8.714",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "9.301",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635666/exam_pipeline/81225a0f_q50_14.png",
+          "altText": "A graph with [R] concentration on the y-axis and time on the x-axis",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q50_14}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Match List I with List II :",
+      "questionType": "MATRIX_MATCH",
+      "options": [],
+      "answer": {
+        "key": "3",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A bulb is rated at 150 watt, converting 8% energy into light. If energy of one photon is $4.42 \\times 10^{-19}$ J, How many photons are emitted by the bulb per second?",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$27.2 \\times 10^{19}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$4.06 \\times 10^{19}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$1.35 \\times 10^{19}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$2.71 \\times 10^{19}$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "4",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The pair of molecules that are metamers among the following is.",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$CH_{3}OCH_{2}CH_{2}CH_{3}$ and $CH_{3}CH_{2}OCH_{2}CH_{3}$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$CH_{3}CH_{2}CH_{2}OH$ and $CH_{3}-CH(OH)-CH_{3}$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$CH_{3}CH_{2}CH_{2}CH_{2}CH_{3}$ and $(CH_{3})_{2}CHCH_{2}CH_{3}$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$\\begin{array}{c}  \\O  \\\\ H_{3}C  \\  CH_{3} \\end{array}$ and $H_{3}C-CH_{2}-C - H$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "1",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Identify the correct statements :\n\nA. The molality of 2.5 g of ethanoic acid (molar mass : 60 g mol$^{-1}$) in 75 g of benzene solution is 0.556 m.\n\nB. The molarity of a solution containing 5 g of NaOH (molar mass : 40 g mol$^{-1}$) in 450 mL of solution is 0.278 M at 298 K.\n\nC. Aquatic species are more comfortable in cold water\n\nD. the solubility of gas increases with decrease in pressure\n\nE. For a binary mixture of A and B, the number of moles of A and B are $n_A$ and $n_B$ respectively. The mole fraction of B will be $x_B = \\frac{n_B}{n_A + n_B}$.",
+      "questionType": "MCQ_MULTIPLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "A, B and C only",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "A, D and E only",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "A and B only",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "A and C only",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "1",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Which of the following is an ambidentate ligand?",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "Oxalate",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Ethane-1, 2-diamine",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "Thiocyanate",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Ethylenediaminetetraacetate ion",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "3",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The functional group that can be identified through pthalein dye test is:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "Carboxylic acid",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Alcohol",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "Aldehyde",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Phenolic",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "4",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Match list-I with List-II",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "A-IV, B-I, C-III, D-II",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "A-III, B-IV, C-II, D-I",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "A-II, B-III, C-I, D-IV",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "A-I, B-II, C-IV, D-III",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "1",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A solution of copper sulphate is electrolysed from 10 minutes with a current of 1.5 amperes. the mass of copper deposited at cathode is: (Given : Molar mass of $Cu = 63 g mol^{-1}$; $1 F = 96487 C mol^{-1}$)",
+      "questionType": "NUMERICAL_DECIMAL",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "0.2938 g",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "0.5876 g",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "2.4036 g",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "1.7018 g",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "1",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Match list-I with List-II",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "A-II, B-III, C-IV, D-I",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "A-I, B-II, C-III, D-IV",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "A-II, B-III, C-I, D-IV",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "A-IV, B-II, C-III, D-I",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "1",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635666/exam_pipeline/81225a0f_q59_tbl_rNonecNone_15.png",
+          "altText": "Table for matching List I and List II",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q59_tbl_rNonecNone_15}}"
+        }
+      ]
+    },
+    {
+      "questionText": "The major product Z formed in the following sequence of reactions is:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$C_2H_5-N=N-OH$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$C_2H_5OH$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$C_2H_5NO_2$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$C_2H_5NH_2$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "2",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635668/exam_pipeline/81225a0f_q60_16.png",
+          "altText": "Reaction diagram for Chlorine atoms",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q60_16}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Although +3 oxidation state is most common in lanthanoids, cerium still shows +4 oxidation state because :",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "After losing one more electron, it acquires $4f^{14}$ electronic configuration",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Its nearest inert gas in Radon",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "After losing one more electron, it acquires $4f^{0}$ electronic configuration",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Its atomic number is 61",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "3",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635672/exam_pipeline/81225a0f_q61_21.png",
+          "altText": "Chemical structures and reaction equations related to p-block Group 15 to 18",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q61_21}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Methane reacts with steam at 1273 K in the presence of nickel catalyst to form : $\\Delta U = Q - W$",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "$CO$ and $H_2$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "$CO$ and $H_2O$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "$CO_2$ and $H_2$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "$CO_2$ and $H_2O$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "1",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Identify the incorrect statement from the following :",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text_and_image",
+          "text": "Oxidation exhibits only -2 oxidation state",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635668/exam_pipeline/81225a0f_q63_opt1_17.png",
+            "altText": "Compound structures for P and Q",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q63_opt1_17}}"
+          }
+        },
+        {
+          "key": "B",
+          "optionType": "text_and_image",
+          "text": "The order of catenation property of Group 14 elements is C >> Si > Ge $\\approx$ Sn",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635669/exam_pipeline/81225a0f_q63_opt2_18.png",
+            "altText": "Compound structures for P and Q",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q63_opt2_18}}"
+          }
+        },
+        {
+          "key": "C",
+          "optionType": "text_and_image",
+          "text": "Carbon has the ability to form $\\pi$ $\\pi$-multiple bond with itself",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635670/exam_pipeline/81225a0f_q63_opt3_19.png",
+            "altText": "Compound structures for P and Q",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q63_opt3_19}}"
+          }
+        },
+        {
+          "key": "D",
+          "optionType": "text_and_image",
+          "text": "ECl$_{3}$ (E = B and Al) is a monomer when E = B and a dimer when E = Al",
+          "imageDetails": {
+            "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635671/exam_pipeline/81225a0f_q63_opt4_20.png",
+            "altText": "Compound structures for P and Q",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q63_opt4_20}}"
+          }
+        }
+      ],
+      "answer": {
+        "key": "1",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The IUPAC name of the element with atomic number 107 is Unnilseptium",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635674/exam_pipeline/81225a0f_q64_22.png",
+          "altText": "Chemical structure for IUPAC naming",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q64_22}}"
+        }
+      ]
+    },
+    {
+      "questionText": "The similarity in behaviour of Li with Mg is reffered to as 'diagonal relationship'.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The oxidation state and covalency of Al in $[{AlCl(H_2O)_5}]^{2+}$ are 3 and 6 respectively",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Phenolphthalein is used as an indicator for titration of sodium hydroxide solution against a standard solution of oxalic acid. The colour change that is observed at an alkaline pH close to the equivalence point during this titration is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "pink to colourless",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "pinkish red to yellow",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "colourless to pink",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "yellow to pinkish red",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Identify the incorrect statement from the following:",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The largest and the smallest species among $Mg$, $Mg^{2+}$, $Al$ and $Al^{3+}$ are $Al$ and $Mg^{2+}$ respectively",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The IUPAC name of the element with atomic number 107 is Unnilseptium",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The similarity in behaviour of $Li$ with $Mg$ is reffered to as ‘diagonal relationship’",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The oxidation state and covalency of $Al$ in $[AlCl(H_2O)_5]^{2+}$ are $3$ and $6$ respectively",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635675/exam_pipeline/81225a0f_q68_tbl_rNonecNone_23.png",
+          "altText": "A table with List-I and List-II for matching.",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q68_tbl_rNonecNone_23}}"
+        }
+      ]
+    },
+    {
+      "questionText": "The following two reactions give the same foul smelling product Z.\n\n$C_2H_5Cl \\xrightarrow{X} Z$\n\n$\n\\begin{array}{c} O \\\\ C_2H_5CNH_2 \\end{array} \\xrightarrow{Br_2,NaOH} Y \\xrightarrow{CHCl_3/ethanoilic KOH} Z$\n\nX and Z, respectively, are",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "X=AgCN ; Z=$C_2H_5CN$",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "X=AgCN; Z=$C_2H_5NC$",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "X=KCN; Z=$C_2H_5CN$",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "X=KCN; Z=$C_2H_5NC$",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "2",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The calculated ‘spin-only’ magnetic moment of $Ti^{2+}(3d^2)$ is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "3.87 BM",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "4.90 BM",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "2.84 BM",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "5.92 BM",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Match list-I with List-II",
+      "questionType": "MATRIX_MATCH",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "A-III, B-IV, C-I, D-II",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "A-III, B-I, C-IV, D-II",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "A-II, B-I, C-IV, D-III",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Two products X and Y are formed in the following reaction sequence,\n\n$\n+ CH_3Cl \\xrightarrow{Anhyd.AlCl_3} \\xrightarrow{dil.HNO_3} \\hspace{1cm} \\\\ dil. H_2SO_4  \\\\ warm X + Y$\n\nThe suitable method that can be used for the separation of products X and Y is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "Continuous extraction",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Differential extraction",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "Sublimation",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Fractional distillation",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "4",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780635676/exam_pipeline/81225a0f_q72_tbl_rNonecNone_24.png",
+          "altText": "Table for matching List I with List II",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q72_tbl_rNonecNone_24}}"
+        }
+      ]
+    }
+  ]
+}

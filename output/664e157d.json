@@ -1,0 +1,1368 @@
+{
+  "job_id": "664e157d",
+  "pdf_hash": "db3b3ee90c28715a8ba06ac549c551dc8845402f78303de7fd2ab84179a800e6",
+  "page_count": 21,
+  "question_count": 54,
+  "is_scanned": false,
+  "elapsed_seconds": 3.37,
+  "questions": [
+    {
+      "questionText": "Let be two vectors, and let and  be the points with position vectors ,  and , respectively, with respect to the origin . If , , and  and are perpendicular to each other, then the area of the triangle is √3 √3 3√3 40 × 10−6 −1 X −1 log10(X−1) The conductivity of a saturated aqueous solution of AgCl is S cm at K. If the solubility of AgCl in water at K is mol L , then is (Assume that AgCl dissolved in water ionizes completely and that the molar conductivity of saturated AgCl solution is equal to its limiting molar conductivity.) 0 × 10−5 The acid dissociation constant of acetic acid is at the given temperature. is the mass (in grams) of acetic acid adsorbed. x m C k n − is the mass (in grams) of charcoal. is the equilibrium concentration of acetic acid in the solution after the adsorption is complete. and  are constants for acetic acid charcoal system at the given temperature.",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "T y2 = 16x (64, 32) L (x1, y1) L T (x1, y1) Let  be the tangent to the parabola at the point . Let  be the tangent to the same parabola at another point on the parabola. If  and  are perpendicular to each other, then the distance between the point and the focus of the parabola, is 4∘",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let be the solution of the differential equation y : (−∞, ∞) →(0, ∞) e5xy3 + y3 = dy , ex + exy4 dx y(0) = √2 satisfying . Then the value of is y(loge 2) √5 + √35 √7 + √53 7 + √53 5 + √35 2∘",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "The value of the definite integral dx ∫ x+3 is loge 3 loge 3 8∘",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "R f : R →R Let  denote the set of all real numbers. Consider the polynomial function defined by f(x) = ((x2 −1)10) d10 dx10 x ∈R , for all . ((x2 −1)10) d10 dx10 (x2 −1)10 Here is the 10th order derivative of the function . Then which of the following statements is (are) TRUE ? x8 f(x) (−10) ( ) 18! 8! f(1) + f(−1) 10! 211 f(x) f(x) −( ) 10! 5!",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The coefficient of in the polynomial is",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The value of is equal to",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The degree of the polynomial is",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The constant term of the polynomial is",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,B,C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let be positive integers in arithmetic progression such that the equation a, b, c ax2 + bx + c = 0 has only integer solutions. Then which of the following statements is (are) TRUE ? c −b a ax2 + bx + c = 0 c = 15 ab = 8 b = 8 x = 3 ax2 + bx + c = 0 4∘",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "is an integer multiple of",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Both the roots of the equation are odd integers",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "If , then",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "If , then is a root of the equation",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,B,C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let  be the straight line joining the points and . Let  be the foot of the perpendicular drawn from the L P(1, 2, −1) Q(2, 3, 1) S R(4, −1, 5) L R L T S PT |PS| : |ST| = 1 : 2 |PS| |ST| PS ST point to the line . Another line passing through  intersects  at a point  such that the point  divides the line segment internally in the ratio , where and are the lengths of the line segments and , respectively. Then which of the following statements is (are) TRUE ? PRT ( , −4, ) PRT (4, 3, 5) PRT 6√5 PRT 18√5",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The orthocentre of the triangle is",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The orthocentre of the triangle is",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The area of the triangle is",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The area of the triangle is",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Let be the real valued function defined on the interval , satisfying and the differential equation y = f(x) (0, ∞) y(1) = 0 x = y −x3 dy . dx Then which of the following statements is (are) TRUE ? f x = √3 f x = √3 f (1, 2) g(x) = 4x3 −5x2 + x x > 0 {x ∈(0, ∞) : f(x) = g(x)}",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The function  has a local minimum at",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The function  has a local maximum at",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The function  is increasing in the interval",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "If for , then the number of elements in the set is",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "R i = √−1 Let  denote the set of all real numbers and let . Consider the matrices S = [ 0 −1 0 ] T = [ 1 1 ] and . Let be real numbers such that a, b, c, d ST = [ a b c d ] . Let H = {x + iy : x, y ∈R and y > 0} . Then which of the following statements is (are) TRUE ? = i b + ia d + ic ω = −1 + i√3 = ω aω + b cω + d m (ST)2 = (ST)m m z ∈H ∈H az + b cz + d",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "If , then",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "If is an integer greater than  such that , then is an integer multiple of",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "If , then",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "N A = {1, 2, 3, 4, 5} B = {1, 2, 3, 4, 5, 6, 7} S f : A →B f(2) ≠2 f(4) ≠4 T = {f ∈S : there exists a function g : B →N such that g(f(x)) = 2x for all x ∈A} T Let  denote the set of all positive integers. Consider the sets and . Let  be the set of all functions such that and . Consider the set . Then the number of elements in the set  is ___________.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "1860",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A bookshelf contains  distinct books of Mathematics and  distinct books of Physics. From these books,  books are chosen X α X 77α at random. Let be the absolute value of the difference between the number of Mathematics books chosen and the number of Physics books chosen. If  is the mean of the random variable , then the value of is ___________.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "100",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Consider a data consisting of observations , whose mean is  and variance is . If the mean and the variance x1, x2, … , x10 x1, x2, … , x8 3.5 x9 < x10 3x9 + 2x10 of the first  observations are  and , respectively, and , then the value of is ___________.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "44",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "y2 E + = 1 x2 Consider the ellipse  given by . Let be the hyperbola whose eccentricity is the reciprocal of the eccentricity H E E P Q H √5 y = x2 of  and whose foci are the same as that of . Let  and  be the points of intersection of and the parabola in the first quadrant. Let  be the distance between  and . d P Q a b d2 = a + b√5 a −b If  and  are the integers such that , then the value of is __________.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "18",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "For a real number , let denote the greatest integer less than or equal to . For a finite set , let denote the number of α [α] α S |S| S f : (−3, 3) →(−∞, ∞) g : (−3, 3) →(−∞, ∞) f(x) = [x3] loge(1 + sin2(π(x −[x]))) elements in the set . Consider the functions and defined by and g(x) = x3 sin2(π loge(1 + x −[x])) . Let A = {x ∈(−3, 3) : f is discontinuous at x} and . B = {x ∈(−3, 3) : g is discontinuous at x} |A| + 2|B| −|A ∩B| Then the value of is ___________.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "56",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "C1 y = e−x x ∈[0, 10π] C2 y = e−x(sin x + cos x) x ∈[0, 10π] n C1 C2 α1, α2, … , αn ∈[0, 10π] x C1 C2 α1 < α2 < ⋯< αn Passage: Consider the curve given by for , and the curve given by for . Let  be the total number of points of intersection of the curves and . Suppose that are the -coordinates of the points of intersection of the curves and such that . Question: The value of  is ___________. n",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "11",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "C1 y = e−x x ∈[0, 10π] C2 y = e−x(sin x + cos x) x ∈[0, 10π] n C1 C2 α1, α2, … , αn ∈[0, 10π] x C1 C2 α1 < α2 < ⋯< αn Passage: Consider the curve given by for , and the curve given by for . Let  be the total number of points of intersection of the curves and . Suppose that are the -coordinates of the points of intersection of the curves and such that . Question: Let  be the area of the region enclosed between the curves , , and the lines and . Then the value β C1 C2 x = α1 x = α4 − loge(β −2e−) π π of is ___________.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "2.5",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "x2 + 4y2 = 1 4x2 + y2 = 1 Passage: Consider the ellipses given by and . Question: Let  be the point in the first quadrant where the given ellipses intersect. If  is the acute angle between the tangents P θ P 4 tan θ to the given ellipses at the point , then the value of is ___________.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "7.5",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "x2 + 4y2 = 1 4x2 + y2 = 1 Passage: Consider the ellipses given by and . Question: If  is the area of the common region that lies inside both the given ellipses, then the value of is ___________. α cot α",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "0.75",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "A nuclear reactor starts producing a radioactive nuclide from , at a constant rate of  per second. Each decay of X t = 0 α X E0 m s λ X produces energy , which is utilized to heat a liquid of mass and specific heat . Assuming no heat loss from the liquid and taking  as the decay constant of , the rate of increase in the temperature of the liquid is: (1 −e−λt) αE0 ms (eλt −1) αE0 ms (1 −e−λt) λE0 ms (α −λe−λt) E0 ms",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "6∘ A beam of polychromatic light passes through a thin prism of prism angle . The refractive index of the material of the prism (λ) n(λ) = αλ + β λ2 α = 3 μm−1 β = 0.096 μm2 λmin varies with wavelength as , where and . If is the wavelength at which the angle of minimum deviation is smallest, then the correct value of at is Dm Dm λmin",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "m ℓ r0 → F (r) = − ^ r k r2 δr ≪r0 A particle of mass , and angular momentum  is moving in a circular orbit of radius under the influence of an attractive force . Keeping its angular momentum unchanged, the particle is displaced radially by a small distance , due to which its radial distance varies periodically. The corresponding time period is: 2πℓ3 mk2 2π√m k 2πℓ3 3mk2 2πℓ3 5mk2",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Consider two isosceles prisms 1 and 2 with prism angles and and refractive indices and , respectively, as shown in A1 A2 n1 n2 a1b1 a2b2 M a1c1 a2c2 the figure. The faces and are parallel to each other and perpendicular to the mirror . If a ray of light is incident on the face and emerges from the face , then the correct statement(s) is/are: sin i1 = n2 sin( ) A2 θ = + δm1 2(n1 −1) δm2 2(n2 −1) respectively, then . sin i2 = n1 sin( ) A1",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "If both the prisms are at minimum deviation condition, then .",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "If prism 2 is at minimum deviation condition, then is always true.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "If both the prisms 1 and 2 are thin and are at minimum deviation condition with angles of deviation and ,",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "If prism 1 is at minimum deviation condition, then is always true.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q23_0.png",
+          "altText": "Diagram for question 23",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q23_0}}"
+        }
+      ]
+    },
+    {
+      "questionText": "1 μC (^ i + 2^ j) −1 XZ t = 0 1^ i −1 t = 0.2 6^ j −10^ j −2 In a vacuum chamber, a particle of charge and mass  mg is projected with a velocity ms from the plane at time in an electric field of Vm . At s, the electric field is switched off and a magnetic field of T is switched on. The acceleration due to gravity is ms . Correct option(s) is/are: XZ t = 0.3 XZ t = 0.4 t > 0.2 XZ t = 0.35",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The vertical distance of the particle from the plane at s is cm.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The vertical distance of the particle from the plane at s is cm.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The radius of the trajectory of the particle for s is cm.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The particle will be in the plane at s.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Two charges and are placed at the points and , respectively, in the plane, where Q1 = q Q2 = mq P1(a, b) P2(ma, mb) XY a, b ≠0 m ≠0, 1 V1 XY Q1 V2 Q2 |V1| = |V2| and . If is the potential at a point in the plane due to charge and is the potential at that point due to charge . Correct statement(s) for the points at which is/are: m = −1 ax + by = 0 m = −2 2√a2 + b2 (2a, 2b) m = −3 3bx + 3ay = 0",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "For , locus of these points is .",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "2 3",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "For , the locus of these points is a circle of radius centered at",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "For , locus of these points is .",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,B,C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "Consider an electric dipole comprising two charges and each with mass , separated by a fixed distance  and initially +q −q m d ^ i E^ j t = 0 t = tf θf ^ i at rest with its dipole moment pointing along . A uniform electric field is turned on at time and it is turned off at , when the dipole moment makes an angle with . Neglecting any sources of energy loss, correct option(s) is/are: ^ j ωf = √2qE md θf = π/3 2√3 qEd θf = π/4 t > tf",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The center of mass of the dipole is deflected towards  in the presence of the field.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "If the magnitude of the final angular velocity , then .",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "If , then the change in kinetic energy of the dipole is given by .",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "For , the dipole rotates around its center of mass with a constant angular velocity after .",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": []
+    },
+    {
+      "questionText": "a Ta = 27∘ Ten moles of an ideal monoatomic gas, initially in state  at atmospheric pressure and temperature C, is enclosed in a metal cylinder of volume fitted with a frictionless piston. The gas is suddenly compressed to state  with volume . Now, V0 b V0/3 11∘ keeping the piston stationary, the cylinder is submerged in a water bath of temperature C until the gas reaches the temperature of the water bath, which is denoted as state . Finally, while still in the water bath, the piston is brought slowly to c f R 91/3 = 2.08 its initial position, which is denoted as state . If  is universal gas constant, then the correct option(s) is/are: [Given: ] a b 4860R −240R",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "The schematic P-V diagram of the processes described above is:",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "The change in internal energy in going from state  to  is .",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "The net change in the internal energy in the whole process is .",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The pressure and temperature of the state  are times the atmospheric pressure and K, respectively.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q27_1.png",
+          "altText": "Diagram for question 27",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q27_1}}"
+        }
+      ]
+    },
+    {
+      "questionText": "Two thin wires, Wire-1 of diameter mm and Wire-2 of unknown diameter  are given. To obtain the value of , the",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "b"
+    },
+    {
+      "questionText": "In a single slit diffraction experiment, a slit of width mm is used to measure the wavelength of a (0.016 ± 0.002) monochromatic light source. In the diffraction pattern, the angular distance between the central maximum and first minimum is (2∘± 40′) sin(2∘) = 0.035 measured to be . The value of the fractional error in the measurement of wavelength is: [Given: ]",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "0.46",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "b"
+    },
+    {
+      "questionText": "As shown in the figure, a ray of unpolarized light enters from water of refractive index into a medium of AB nw = 4/3 np = 4/√3 ng = 1.5 i CD i refractive index after passing through a glass plate of refractive index and a layer of water. At a particular incident angle  the reflected ray is polarized in the direction as shown in the figure. The value of  (in degrees) is:",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "60",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q30_2.png",
+          "altText": "Diagram for question 30",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q30_2}}"
+        }
+      ],
+      "topic": "b"
+    },
+    {
+      "questionText": "As shown in the figure, the resistance of a galvanometer  can be found by the half-deflection method. Here the resistance G R2 K K R2 = 4 Ω 6 Ω R1 is adjusted such that when the key is closed the deflection in the galvanometer becomes half of the value as compared to when is open. Half-deflection is obtained at and thus the galvanometer resistance is found to be . In this half- deflection condition the current (in mA) through the resistor is:",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "694.44",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q31_3.png",
+          "altText": "Diagram for question 31",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q31_3}}"
+        }
+      ],
+      "topic": "b"
+    },
+    {
+      "questionText": "In a new system of units, the units of mass, length, time and current are 5 kg, 5 m, 5 s and 5 A, respectively. If μ and ϵ are the permeability and permittivity of free space, respectively, then in this new system of units, the magnitude of one SI unit of √μ /ϵ , is:",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "25",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "b"
+    },
+    {
+      "questionText": "Passage: A container of height  m, length  m and breadth  m is made of insulating vertical walls and two large area M1 M2 √10 horizontal metal plates ( and ) which extend far beyond the vertical walls in all directions. The container is partitioned into two equal chambers with a thin insulating vertical wall. The partition wall contains a small hole of cross-sectional area cm  near its bottom edge. Initially the hole is closed and the left chamber of the container is completely filled with a liquid of dielectric constant and the right chamber is empty ( ). At time , the hole is opened and the liquid flows from ϵr = 15 ϵr = 1 t = 0 ϵr = 1 t > 0 −2 the left chamber to the right chamber. In both the chambers, the space above the liquid has and is maintained at atmospheric pressure. The schematic of the container at a time is shown in the figure. [Given: acceleration due to gravity is ms .] Question: The height (in m) of the liquid in left chamber at s is: t = 500",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "1.25",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q33_4.png",
+          "altText": "Diagram for question 33",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q33_4}}"
+        }
+      ],
+      "topic": "b"
+    },
+    {
+      "questionText": "Passage: A container of height  m, length  m and breadth  m is made of insulating vertical walls and two large area M1 M2 √10 horizontal metal plates ( and ) which extend far beyond the vertical walls in all directions. The container is partitioned into two equal chambers with a thin insulating vertical wall. The partition wall contains a small hole of cross-sectional area cm  near its bottom edge. Initially the hole is closed and the left chamber of the container is completely filled with a liquid of dielectric constant and the right chamber is empty ( ). At time , the hole is opened and the liquid flows from ϵr = 15 ϵr = 1 t = 0 ϵr = 1 t > 0 −2 the left chamber to the right chamber. In both the chambers, the space above the liquid has and is maintained at atmospheric pressure. The schematic of the container at a time is shown in the figure. [Given: acceleration due to gravity is ms .] Question: The difference in the capacitance (in F) between the metal plates at and that at s is , where t = 0 t = 500 (8 −n)ϵ0 ϵ0 n is the permittivity of free space. The value of  is:",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "1.97",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "b"
+    },
+    {
+      "questionText": "Passage: A uniform circular disk of radius m and mass  kg is pivoted at its top point  such that it can rotate freely around",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q35_5.png",
+          "altText": "Diagram for question 35",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q35_5}}"
+        }
+      ],
+      "topic": "b"
+    },
+    {
+      "questionText": "Passage: A uniform circular disk of radius m and mass  kg is pivoted at its top point  such that it can rotate freely around",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "b"
+    },
+    {
+      "questionText": "At K, the molar conductivities of the aqueous solutions of three salts at two different concentrations are given below: −1 Salt Concentration (M) Molar conductivity (S cm  mol )",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "b"
+    },
+    {
+      "questionText": "The correct order of ONO bond angle in the given species is NO+ 2 < NO2 < NO− 3 < NO− NO− 2 < NO− 3 < NO2 < NO+ NO− 3 < NO− 2 < NO2 < NO+ NO− 2 < NO− 3 < NO+ 2 < NO2",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "Natural rubber on complete ozonolysis ( /Zn- ) gives compound as the major product. gives positive iodoform and O3 H2O X X X Y Y Tollen's tests. on heating with aqueous NaOH gives as the major product. is",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q39_optA_6.png",
+            "altText": "Image for option A",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q39_optA_6}}"
+          }
+        },
+        {
+          "key": "B",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q39_optB_7.png",
+            "altText": "Image for option B",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q39_optB_7}}"
+          }
+        },
+        {
+          "key": "C",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q39_optC_8.png",
+            "altText": "Image for option C",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q39_optC_8}}"
+          }
+        },
+        {
+          "key": "D",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q39_optD_9.png",
+            "altText": "Image for option D",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q39_optD_9}}"
+          }
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "A known artificial sweetener is composed of 4-chloro-4-deoxy- -D-galactose and 1,6-dichloro-1,6-dideoxy- -D-fructose X α β joined by a glycosidic linkage. Structure of D-galactose is given below: The correct structure of is X",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q40_optA_11.png",
+            "altText": "Image for option A",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q40_optA_11}}"
+          }
+        },
+        {
+          "key": "B",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q40_optB_12.png",
+            "altText": "Image for option B",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q40_optB_12}}"
+          }
+        },
+        {
+          "key": "C",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q40_optC_13.png",
+            "altText": "Image for option C",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q40_optC_13}}"
+          }
+        },
+        {
+          "key": "D",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q40_optD_14.png",
+            "altText": "Image for option D",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q40_optD_14}}"
+          }
+        }
+      ],
+      "answer": {
+        "key": "A",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "R ⟶P k R P t [R] [P] For a first-order reaction at a given temperature,  is the rate constant. For this reaction, at the given temperature, the concentrations of  and  at a time  are and , respectively. The correct graphical representation(s) for this reaction is(are)",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q41_optA_15.png",
+            "altText": "Image for option A",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q41_optA_15}}"
+          }
+        },
+        {
+          "key": "B",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q41_optB_16.png",
+            "altText": "Image for option B",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q41_optB_16}}"
+          }
+        },
+        {
+          "key": "C",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q41_optC_17.png",
+            "altText": "Image for option C",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q41_optC_17}}"
+          }
+        },
+        {
+          "key": "D",
+          "optionType": "image",
+          "text": null,
+          "imageDetails": {
+            "url": "http://localhost:8000/images/664e157d_q41_optD_18.png",
+            "altText": "Image for option D",
+            "imageType": "option",
+            "mappingImageName": "{{IMAGE:img_q41_optD_18}}"
+          }
+        }
+      ],
+      "answer": {
+        "key": "C,D",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "Correct statement(s) about the compounds , and is(are) P Q R P Q Q R",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "has two lone pairs of electrons on the central atom.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "has a perfect octahedral geometry.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "can act as a fluorinating agent.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The molecular structure of is trigonal pyramidal.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,C,D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q42_19.png",
+          "altText": "Diagram for question 42",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q42_19}}"
+        }
+      ],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "The correct statement(s) regarding the periodic properties of elements is(are) Al3+ < Mg2+ < Na+ − −",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "Second ionization enthalpy of carbon atom is less than that of boron atom.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Increasing order of ionic radii:",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "Under identical conditions, in solid state, the density of potassium metal is more than density of sodium metal.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "The H H bond is weaker than F F bond.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "A,B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "In the following reaction sequence, , ,  and are the major products. P Q S T The correct statement(s) about , ,  and is(are) P Q S T Q S P T",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "on treatment with ethanol generates an aromatic aldehyde.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "gives positive phthalein dye test.",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "is a dinitro compound.",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "is a coloured compound.",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B,D",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q44_20.png",
+          "altText": "Diagram for question 44",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q44_20}}"
+        }
+      ],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "The correct statement(s) regarding sugars is(are) − + −52.5∘ +92.5∘ Given: Specific rotations of L-( )-glucose and L-( )-fructose are and , respectively. HNO3 reagent. disaccharide. −40∘",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": "On treatment with , gluconic acid is oxidized to saccharic acid, whereas glucose is not oxidized to saccharic acid.",
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": "Fructose gives a positive Fehling's test because it isomerises to glucose and another aldohexose in the presence of Fehling's",
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": "Invert sugar is an equimolar mixture of D-glucose and D-fructose formed after hydrolysis of the corresponding",
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": "Specific rotation of invert sugar is .",
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": "B,C",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "Xa+ Yb+ and are hydrogen-like species. The wavelength of light absorbed during the transition between the states with n = 1 n = 2 Xa+ λ n = 2 n = 4 Yb+ 9λ (a + b) principal quantum numbers and of is . The wavelength of light absorbed during the transition between the states with principal quantum numbers and of is . The lowest possible value of is ____.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "3",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "At a given temperature, g of acetic acid in mL of water is shaken with g of charcoal and the pH of the resulting",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "In a solvent , a compound is partially dissociated into and as given below: S B C D B ⇌2C + 2D B C D B S S 10R −1 R −1 −1 , and are non-volatile in nature. The molar mass of is times the molar mass of . The standard boiling point and the standard enthalpy of vaporization of  are K and J mol , respectively (  is the gas constant in J K mol ). A",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "A,C,B",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "Consider that the coordinating atoms of the ligands in -[Co(NH ) Cl ]Cl and -[Co(NH ) Cl ] octahedral complexes are cis 3 4 mer 3 3 at the vertices of an octahedron. The sum of total number of the triangular faces in both the complexes having one N atom and two Cl atoms at their corners is ____.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "6",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "In the following reaction sequence, major products and are acyclic monomers. X Y mol of completely reacts with mol of to give  mol of a single biodegradable acyclic copolymer  as the only X Y Z Z product. The amount of  formed in grams is ____. Given: Atomic mass (in amu): H : , C : , N : , O : , Br :",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "85018",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q50_21.png",
+          "altText": "Diagram for question 50",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q50_21}}"
+        }
+      ],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "Passage: Two volatile liquids A and B form an ideal solution. Consider a  molal solution of B in A inside a closed container having a total vapour pressure of mm Hg at K. The vapour pressure of pure A at K is mm Hg. Assume that A and B behave as ideal gases in the vapour phase. Given: R = 0.08 −1 −1 The gas constant L atm K mol −1 Molar mass of A is g mol −1 Molar mass of B is g mol Density of liquid B at K is g/mL 0.5 = 760 atm mm Hg Question: At K, the ratio of the molar volume of pure B in vapour phase to its molar volume in liquid phase is ____.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "2000",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "Passage: Two volatile liquids A and B form an ideal solution. Consider a  molal solution of B in A inside a closed container having a total vapour pressure of mm Hg at K. The vapour pressure of pure A at K is mm Hg. Assume that A and B behave as ideal gases in the vapour phase. Given: R = 0.08 −1 −1 The gas constant L atm K mol −1 Molar mass of A is g mol −1 Molar mass of B is g mol Density of liquid B at K is g/mL 0.5 = 760 atm mm Hg Question: The mole fraction of B in vapour phase which is in equilibrium with this solution is ____.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "0.16",
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "Passage: Consider the following reaction sequence in which , ,  and are the major products. J K L M Given: Atomic mass (in amu): H : , C : , N : , O : , S : , Br : , Ba : Question: The volume of  M aqueous required to completely neutralize the ammonia evolved from g of  in H2SO4 5.72 L Kjeldahl's method of nitrogen estimation is ____ mL.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "10",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q53_22.png",
+          "altText": "Diagram for question 53",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q53_22}}"
+        }
+      ],
+      "topic": "NaCl"
+    },
+    {
+      "questionText": "Passage: Consider the following reaction sequence in which , ,  and are the major products. J K L M Given: Atomic mass (in amu): H : , C : , N : , O : , S : , Br : , Ba : Question: In sulphur estimation by Carius method, the amount of BaSO  formed from g of is ____ g.",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": "2.33",
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "http://localhost:8000/images/664e157d_q54_23.png",
+          "altText": "Diagram for question 54",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q54_23}}"
+        }
+      ],
+      "topic": "NaCl"
+    }
+  ]
+}

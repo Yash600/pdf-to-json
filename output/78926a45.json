@@ -1,0 +1,578 @@
+{
+  "job_id": "78926a45",
+  "pdf_hash": "db3b3ee90c28715a8ba06ac549c551dc8845402f78303de7fd2ab84179a800e6",
+  "page_count": 21,
+  "question_count": 25,
+  "is_scanned": false,
+  "elapsed_seconds": 4.33,
+  "questions": [
+    {
+      "questionText": "1 Ω 6.35 × 103 −3 63.5 2 × 108 −1 −1 A metal wire of cross-sectional area mm  and length m is connected across a battery of e.m.f.  V and internal resistance . The density, atomic mass and electrical conductivity of the metal are kg m , gm/mole and mho m , respectively. Assuming one conduction electron per atom of the metal, the drift velocity (in mm s ) of the electrons in the wire is: 6 × 1023 1.6 × 10−19 [Take Avogadro's number as and charge of the electron as C.]",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "Q19)",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "Q19)",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "Q19)",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "Q19)",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "MathonGo Answer Key: (C) www.mathongo.com Q20) A nuclear reactor starts producing a radioactive nuclide from , at a constant rate of  per second. Each decay of X t = 0 α X E0 m s λ X produces energy , which is utilized to heat a liquid of mass and specific heat . Assuming no heat loss from the liquid and taking  as the decay constant of , the rate of increase in the temperature of the liquid is: (1 −e−λt) αE0 ms (eλt −1) αE0 ms (1 −e−λt) λE0 ms (α −λe−λt) E0 ms MathonGo Answer Key: (A) Q21) 6∘ A beam of polychromatic light passes through a thin prism of prism angle . The refractive index of the material of the prism (λ) n(λ) = αλ + β λ2 α = 3 μm−1 β = 0.096 μm2 λmin varies with wavelength as , where and . If is the wavelength at which the angle of minimum deviation is smallest, then the correct value of at is Dm Dm λmin",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "Q19)",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "4∘",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "Q19)",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "8∘",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "Q19)",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "2∘",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "Q19)",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "4∘ MathonGo Answer Key: (B) Q22) m ℓ r0 → F (r) = − ^ r k r2 δr ≪r0 A particle of mass , and angular momentum  is moving in a circular orbit of radius under the influence of an attractive force . Keeping its angular momentum unchanged, the particle is displaced radially by a small distance , due to which its radial distance varies periodically. The corresponding time period is: 2πℓ3 mk2 2π√m k 2πℓ3 3mk2 2πℓ3 5mk2 MathonGo Answer Key: (A) www.mathongo.com Q23) Consider two isosceles prisms 1 and 2 with prism angles and and refractive indices and , respectively, as shown in A1 A2 n1 n2 a1b1 a2b2 M a1c1 a2c2 the figure. The faces and are parallel to each other and perpendicular to the mirror . If a ray of light is incident on the face and emerges from the face , then the correct statement(s) is/are: sin i1 = n2 sin( ) A2 θ = + δm1 2(n1 −1) δm2 2(n2 −1) respectively, then . sin i2 = n1 sin( ) A1 MathonGo Answer Key: (A), (D) Q24) 1 μC (^ i + 2^ j) −1 XZ t = 0 1^ i −1 t = 0.2 6^ j −10^ j −2 In a vacuum chamber, a particle of charge and mass  mg is projected with a velocity ms from the plane at time in an electric field of Vm . At s, the electric field is switched off and a magnetic field of T is switched on. The acceleration due to gravity is ms . Correct option(s) is/are: XZ t = 0.3 XZ t = 0.4 t > 0.2 XZ t = 0.35 MathonGo Answer Key: (A), (C) www.mathongo.com A1 A2 = sin( )/ sin( ) n2 n1 δm1 δm2 Q25) Two charges and are placed at the points and , respectively, in the plane, where Q1 = q Q2 = mq P1(a, b) P2(ma, mb) XY a, b ≠0 m ≠0, 1 V1 XY Q1 V2 Q2 |V1| = |V2| and . If is the potential at a point in the plane due to charge and is the potential at that point due to charge . Correct statement(s) for the points at which is/are: m = −1 ax + by = 0 m = −2 2√a2 + b2 (2a, 2b) m = −3 3bx + 3ay = 0 MathonGo Answer Key: (A), (B), (C) Q26) Consider an electric dipole comprising two charges and each with mass , separated by a fixed distance  and initially +q −q m d ^ i E^ j t = 0 t = tf θf ^ i at rest with its dipole moment pointing along . A uniform electric field is turned on at time and it is turned off at , when the dipole moment makes an angle with . Neglecting any sources of energy loss, correct option(s) is/are: ^ j ωf = √2qE md θf = π/3 2√3 qEd θf = π/4 t > tf MathonGo Answer Key: (B), (D) www.mathongo.com θf = π Q27) a Ta = 27∘ Ten moles of an ideal monoatomic gas, initially in state  at atmospheric pressure and temperature C, is enclosed in a metal cylinder of volume fitted with a frictionless piston. The gas is suddenly compressed to state  with volume . Now, V0 b V0/3 11∘ keeping the piston stationary, the cylinder is submerged in a water bath of temperature C until the gas reaches the temperature of the water bath, which is denoted as state . Finally, while still in the water bath, the piston is brought slowly to c f R 91/3 = 2.08 its initial position, which is denoted as state . If  is universal gas constant, then the correct option(s) is/are: [Given: ] a b 4860R −240R",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "Q19)",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "MathonGo Answer Key: (A), (B), (C) Q28) Two thin wires, Wire-1 of diameter mm and Wire-2 of unknown diameter  are given. To obtain the value of , the",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "b",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "d d 0.5 0.5 d μ diameters of the two wires are measured with a screw gauge. The screw gauge has a pitch of mm and there are divisions on the circular scale (CS). The smallest division on the linear scale (LS) is mm. The table shows the readings of LS and CS for the measurements. The value of  (in m) is: Readings LS (mm) CS Wire-1",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "b",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "Wire-2",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "b",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "MathonGo Answer Key: 1915 Q29) In a single slit diffraction experiment, a slit of width mm is used to measure the wavelength of a (0.016 ± 0.002) monochromatic light source. In the diffraction pattern, the angular distance between the central maximum and first minimum is (2∘± 40′) sin(2∘) = 0.035 measured to be . The value of the fractional error in the measurement of wavelength is: [Given: ] MathonGo Answer Key: 0.46 www.mathongo.com Q30) As shown in the figure, a ray of unpolarized light enters from water of refractive index into a medium of AB nw = 4/3 np = 4/√3 ng = 1.5 i CD i refractive index after passing through a glass plate of refractive index and a layer of water. At a particular incident angle  the reflected ray is polarized in the direction as shown in the figure. The value of  (in degrees) is: MathonGo Answer Key: 60 Q31) As shown in the figure, the resistance of a galvanometer  can be found by the half-deflection method. Here the resistance G R2 K K R2 = 4 Ω 6 Ω R1 is adjusted such that when the key is closed the deflection in the galvanometer becomes half of the value as compared to when is open. Half-deflection is obtained at and thus the galvanometer resistance is found to be . In this half- deflection condition the current (in mA) through the resistor is: MathonGo Answer Key: 694.44 Q32) In a new system of units, the units of mass, length, time and current are 5 kg, 5 m, 5 s and 5 A, respectively. If μ and ϵ are the permeability and permittivity of free space, respectively, then in this new system of units, the magnitude of one SI unit of √μ /ϵ , is: MathonGo Answer Key: 25 www.mathongo.com Q33) Passage: A container of height  m, length  m and breadth  m is made of insulating vertical walls and two large area M1 M2 √10 horizontal metal plates ( and ) which extend far beyond the vertical walls in all directions. The container is partitioned into two equal chambers with a thin insulating vertical wall. The partition wall contains a small hole of cross-sectional area cm  near its bottom edge. Initially the hole is closed and the left chamber of the container is completely filled with a liquid of dielectric constant and the right chamber is empty ( ). At time , the hole is opened and the liquid flows from ϵr = 15 ϵr = 1 t = 0 ϵr = 1 t > 0 −2 the left chamber to the right chamber. In both the chambers, the space above the liquid has and is maintained at atmospheric pressure. The schematic of the container at a time is shown in the figure. [Given: acceleration due to gravity is ms .] Question: The height (in m) of the liquid in left chamber at s is: t = 500 MathonGo Answer Key: 1.25 Q34) Passage: A container of height  m, length  m and breadth  m is made of insulating vertical walls and two large area M1 M2 √10 horizontal metal plates ( and ) which extend far beyond the vertical walls in all directions. The container is partitioned into two equal chambers with a thin insulating vertical wall. The partition wall contains a small hole of cross-sectional area cm  near its bottom edge. Initially the hole is closed and the left chamber of the container is completely filled with a liquid of dielectric constant and the right chamber is empty ( ). At time , the hole is opened and the liquid flows from ϵr = 15 ϵr = 1 t = 0 ϵr = 1 t > 0 −2 the left chamber to the right chamber. In both the chambers, the space above the liquid has and is maintained at atmospheric pressure. The schematic of the container at a time is shown in the figure. [Given: acceleration due to gravity is ms .] Question: The difference in the capacitance (in F) between the metal plates at and that at s is , where t = 0 t = 500 (8 −n)ϵ0 ϵ0 n is the permittivity of free space. The value of  is: MathonGo Answer Key: 1.97 www.mathongo.com Q35) Passage: A uniform circular disk of radius m and mass  kg is pivoted at its top point  such that it can rotate freely around",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "b",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "C C XY x XY −1 P y −1 in the plane, as shown in the figure. Initially, when the disk is at rest, a particle of mass g, travelling along negative direction in the plane with speed ms , hits the circumference of the disk at a point . After collision the particle moves along negative  direction at a speed of ms . (g) = −10^ j −2 [Given: the acceleration due to gravity ms ] Question: After the collision the disk starts to rotate around point  in the plane. The maximum change in the height (in C XY O m) of its center  is: MathonGo Answer Key: 0.15 Q36) Passage: A uniform circular disk of radius m and mass  kg is pivoted at its top point  such that it can rotate freely around",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "b",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "C C XY x XY −1 P y −1 in the plane, as shown in the figure. Initially, when the disk is at rest, a particle of mass g, travelling along negative direction in the plane with speed ms , hits the circumference of the disk at a point . After collision the particle moves along negative  direction at a speed of ms . (g) = −10^ j −2 [Given: the acceleration due to gravity ms ] Question: Amount of energy loss (in J) in the collision is: MathonGo Answer Key: 17.47 www.mathongo.com Q37) At K, the molar conductivities of the aqueous solutions of three salts at two different concentrations are given below: −1 Salt Concentration (M) Molar conductivity (S cm  mol )",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "b",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "NaNO3",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "b",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "b",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "NaCl",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "NaCl",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "AgNO3",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "NaCl",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "NaCl",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "40 × 10−6 −1 X −1 log10(X−1) The conductivity of a saturated aqueous solution of AgCl is S cm at K. If the solubility of AgCl in water at K is mol L , then is (Assume that AgCl dissolved in water ionizes completely and that the molar conductivity of saturated AgCl solution is equal to its limiting molar conductivity.) MathonGo Answer Key: (C) Q38) The correct order of ONO bond angle in the given species is NO+ 2 < NO2 < NO− 3 < NO− NO− 2 < NO− 3 < NO2 < NO+ NO− 3 < NO− 2 < NO2 < NO+ NO− 2 < NO− 3 < NO+ 2 < NO2 MathonGo Answer Key: (B) www.mathongo.com Q39) Natural rubber on complete ozonolysis ( /Zn- ) gives compound as the major product. gives positive iodoform and O3 H2O X X X Y Y Tollen's tests. on heating with aqueous NaOH gives as the major product. is MathonGo Answer Key: (A) www.mathongo.com Q40) A known artificial sweetener is composed of 4-chloro-4-deoxy- -D-galactose and 1,6-dichloro-1,6-dideoxy- -D-fructose X α β joined by a glycosidic linkage. Structure of D-galactose is given below: The correct structure of is X MathonGo Answer Key: (A) www.mathongo.com Q41) R ⟶P k R P t [R] [P] For a first-order reaction at a given temperature,  is the rate constant. For this reaction, at the given temperature, the concentrations of  and  at a time  are and , respectively. The correct graphical representation(s) for this reaction is(are) www.mathongo.com MathonGo Answer Key: (C), (D) Q42) Correct statement(s) about the compounds , and is(are) P Q R P Q Q R MathonGo Answer Key: (A), (C), (D) Q43) The correct statement(s) regarding the periodic properties of elements is(are) Al3+ < Mg2+ < Na+ − − MathonGo Answer Key: (A), (B) www.mathongo.com Q44) In the following reaction sequence, , ,  and are the major products. P Q S T The correct statement(s) about , ,  and is(are) P Q S T Q S P T MathonGo Answer Key: (B), (D) Q45) The correct statement(s) regarding sugars is(are) − + −52.5∘ +92.5∘ Given: Specific rotations of L-( )-glucose and L-( )-fructose are and , respectively. HNO3 reagent. disaccharide. −40∘ MathonGo Answer Key: (B), (C) Q46) Xa+ Yb+ and are hydrogen-like species. The wavelength of light absorbed during the transition between the states with n = 1 n = 2 Xa+ λ n = 2 n = 4 Yb+ 9λ (a + b) principal quantum numbers and of is . The wavelength of light absorbed during the transition between the states with principal quantum numbers and of is . The lowest possible value of is ____. MathonGo Answer Key: 3 www.mathongo.com Q47) At a given temperature, g of acetic acid in mL of water is shaken with g of charcoal and the pH of the resulting",
+      "questionType": "MCQ_SINGLE",
+      "options": [
+        {
+          "key": "A",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "B",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "C",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        },
+        {
+          "key": "D",
+          "optionType": "text",
+          "text": null,
+          "imageDetails": null
+        }
+      ],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "1.0 3.0 solution is . Assume, the adsorption of acetic acid from the aqueous solution by charcoal follows Freundlich isotherm, = kC 1/n x m log10(x/m) log10 C k −1 If the plot of against gives a straight line with slope , the value of  in L mol is ____. −1 Given: The molar mass of acetic acid is g mol .",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "NaCl",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "0 × 10−5 The acid dissociation constant of acetic acid is at the given temperature. is the mass (in grams) of acetic acid adsorbed. x m C k n − is the mass (in grams) of charcoal. is the equilibrium concentration of acetic acid in the solution after the adsorption is complete. and  are constants for acetic acid charcoal system at the given temperature. MathonGo Answer Key: 1.5 Q48) In a solvent , a compound is partially dissociated into and as given below: S B C D B ⇌2C + 2D B C D B S S 10R −1 R −1 −1 , and are non-volatile in nature. The molar mass of is times the molar mass of . The standard boiling point and the standard enthalpy of vaporization of  are K and J mol , respectively (  is the gas constant in J K mol ). A solution of in  with an initial concentration of as (mass/mass) has a boiling point of K at  bar pressure. In",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": false,
+      "imageDetails": [],
+      "topic": "NaCl",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    },
+    {
+      "questionText": "25% B this solution, the mole percent of that has been dissociated is ____. MathonGo Answer Key: 33.33 Q49) Consider that the coordinating atoms of the ligands in -[Co(NH ) Cl ]Cl and -[Co(NH ) Cl ] octahedral complexes are cis 3 4 mer 3 3 at the vertices of an octahedron. The sum of total number of the triangular faces in both the complexes having one N atom and two Cl atoms at their corners is ____. MathonGo Answer Key: 6 Q50) In the following reaction sequence, major products and are acyclic monomers. X Y mol of completely reacts with mol of to give  mol of a single biodegradable acyclic copolymer  as the only X Y Z Z product. The amount of  formed in grams is ____. Given: Atomic mass (in amu): H : , C : , N : , O : , Br : MathonGo Answer Key: 85018 www.mathongo.com Q51) Passage: Two volatile liquids A and B form an ideal solution. Consider a  molal solution of B in A inside a closed container having a total vapour pressure of mm Hg at K. The vapour pressure of pure A at K is mm Hg. Assume that A and B behave as ideal gases in the vapour phase. Given: R = 0.08 −1 −1 The gas constant L atm K mol −1 Molar mass of A is g mol −1 Molar mass of B is g mol Density of liquid B at K is g/mL 0.5 = 760 atm mm Hg Question: At K, the ratio of the molar volume of pure B in vapour phase to its molar volume in liquid phase is ____. MathonGo Answer Key: 2000 Q52) Passage: Two volatile liquids A and B form an ideal solution. Consider a  molal solution of B in A inside a closed container having a total vapour pressure of mm Hg at K. The vapour pressure of pure A at K is mm Hg. Assume that A and B behave as ideal gases in the vapour phase. Given: R = 0.08 −1 −1 The gas constant L atm K mol −1 Molar mass of A is g mol −1 Molar mass of B is g mol Density of liquid B at K is g/mL 0.5 = 760 atm mm Hg Question: The mole fraction of B in vapour phase which is in equilibrium with this solution is ____. MathonGo Answer Key: 0.16 Q53) Passage: Consider the following reaction sequence in which , ,  and are the major products. J K L M Given: Atomic mass (in amu): H : , C : , N : , O : , S : , Br : , Ba : Question: The volume of  M aqueous required to completely neutralize the ammonia evolved from g of  in H2SO4 5.72 L Kjeldahl's method of nitrogen estimation is ____ mL. MathonGo Answer Key: 10 www.mathongo.com Q54) Passage: Consider the following reaction sequence in which , ,  and are the major products. J K L M Given: Atomic mass (in amu): H : , C : , N : , O : , S : , Br : , Ba : Question: In sulphur estimation by Carius method, the amount of BaSO  formed from g of is ____ g. MathonGo Answer Key: 2.33 www.mathongo.com 3.79 M",
+      "questionType": "NUMERICAL_INTEGER",
+      "options": [],
+      "answer": {
+        "key": null,
+        "explanation": ""
+      },
+      "hasImage": true,
+      "imageDetails": [
+        {
+          "url": "https://res.cloudinary.com/dwlxv6mfr/image/upload/v1780505405/exam_pipeline/78926a45_q0_0.png",
+          "altText": "Diagram for question 0",
+          "imageType": "question",
+          "mappingImageName": "{{IMAGE:img_q0_0}}"
+        }
+      ],
+      "topic": "NaCl",
+      "paragraphContext": "Passage: Consider the curve given by for , and the curve given by for Passage: Consider the curve given by for , and the curve given by for Passage: Consider the ellipses given by and . Passage: Consider the ellipses given by and ."
+    }
+  ]
+}
